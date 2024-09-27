@@ -86,7 +86,7 @@ class pan123Api:
         }
         self.webdav_auth = generate_authorization_header(get_key("WEBDAV_ACCOUNT"),get_key("WEBDAV_SECRITE"))
         self.webdav_host = get_key("WEBDAV_HOST")
-        if self.webdav_host.endswith("/"):
+        if not self.webdav_host.endswith("/"):
             self.webdav_host = self.webdav_host + "/"
 
     def refreshToken(self) -> str:
