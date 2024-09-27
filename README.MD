@@ -21,24 +21,16 @@
 
 前往[123云盘开放平台](https://www.123pan.com/developer)申请成为开发者，获取clientID与clientSecret
 
-前往123云盘主页
-
-工具中心 > 第三方挂载 > WebDAV授权管理 > 添加应用 > 生成密码
-
-访问 [https://webdav-1833788059.pd1.123pan.cn/webdav](https://webdav-1833788059.pd1.123pan.cn/webdav)
-
-登录后，F12，找到请求标头中的Authorization值,形如
-
-```
-Basic MTUyNTU***********************************************dmM3Y=
-```
+前往[123云盘三方挂载](https://www.123pan.com/thirdPartyMount) > WebDAV授权管理 > 添加应用 > 生成密码
 
 执行
 ```
 docker run -d --name=123panlist --restart=unless-stopped \
   -e CLIENT_ID=<你的clientID> \
   -e CLIENT_SECRET=<你的clientSecret> \
-  -e WEBDAV_AUTH='<webdav的Authorization值>' \
+  -e WEBDAV_ACCOUNT='<webdav用户名>' \
+  -e WEBDAV_SECRITE='<webdav密码>' \
+  -e WEBDAV_HOST='<webdav服务器地址>'
   -p 8000:8000 
   riderlty/123panlist
 ```

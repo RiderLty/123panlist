@@ -5,6 +5,7 @@ import math
 import shlex
 import subprocess
 from cachetools import TTLCache
+import base64
 
 
 def get_key(KEY_NAME):
@@ -14,6 +15,11 @@ def get_key(KEY_NAME):
         with open(KEY_NAME, "r", encoding="UTF-8") as f:
             return f.read()
     raise FileNotFoundError(f"{KEY_NAME} not set !")
+
+
+def generate_authorization_header(username, password):
+    encoded_credentials = base64.b64encode(f"{username}:{password}".encode()).decode()
+    return f"Basic {encoded_credentials}"
 
 
 def validToken(token):
@@ -28,7 +34,7 @@ def validToken(token):
             "Platform": "open_platform",
         },
     ).json()
-    assert resp["code"] == 0 , resp["message"]
+    assert resp["code"] == 0, resp["message"]
 
 
 def execute_command(command_with_args, dry_run=False):
@@ -78,15 +84,15 @@ class pan123Api:
             "Authorization": self.token,
             "Platform": "open_platform",
         }
-        self.webdav_auth = get_key("WEBDAV_AUTH")
+        self.webdav_auth = generate_authorization_header(get_key("WEBDAV_ACCOUNT"),get_key("WEBDAV_SECRITE"))
         self.webdav_host = get_key("WEBDAV_HOST")
         if self.webdav_host.endswith("/"):
-            self.webdav_host = self.webdav_host+"/"
+            self.webdav_host = self.webdav_host + "/"
 
     def refreshToken(self) -> str:
         try:
             with open("accessToken", "r", encoding="UTF-8") as f:
-                token = f.read()            
+                token = f.read()
             validToken(token)
             return token
         except Exception as e:
@@ -102,7 +108,7 @@ class pan123Api:
                     "Platform": "open_platform",
                 },
             ).json()
-            assert resp["code"] == 0 , resp["message"]
+            assert resp["code"] == 0, resp["message"]
             token = resp["data"]["accessToken"]
             validToken(token)
             with open("accessToken", "w", encoding="UTF-8") as f:
@@ -271,13 +277,16 @@ class pan123Api:
                 )
             )
         return currentFiles
-    
-    def get302url(self,path):
+
+    def get302url(self, path):
         if path in self.urlCache:
             return self.urlCache[path]
-        req = requests.get(f"{self.webdav_host}{path}",headers={
-            "Authorization": self.webdav_auth,
-            "range": "bytes=0-0",
-        })
+        req = requests.get(
+            f"{self.webdav_host}{path}",
+            headers={
+                "Authorization": self.webdav_auth,
+                "range": "bytes=0-0",
+            },
+        )
         self.urlCache[path] = req.url
         return req.url
