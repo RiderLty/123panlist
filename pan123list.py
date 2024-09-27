@@ -51,6 +51,7 @@ async def read_path(path: str):
 
 def get_content_type(file_name):
     content_type, _ = mimetypes.guess_type(file_name)
+    print(f"{file_name}:{content_type}")
     return content_type or "application/octet-stream"
 
 
@@ -78,3 +79,4 @@ async def process_url(path: str):
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
