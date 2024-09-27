@@ -3,3 +3,4 @@ CLIENT_SECRET
 WEBDAV_AUTH
 *.pyc
 accessToken
+DAV_HOST

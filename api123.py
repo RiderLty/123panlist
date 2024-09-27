@@ -272,7 +272,7 @@ class pan123Api:
     def get302url(self,path):
         if path in self.urlCache:
             return self.urlCache[path]
-        req = requests.get(f"https://webdav-1833788059.pd1.123pan.cn/webdav/{path}",headers={
+        req = requests.get(f"{get_key('DAV_HOST')}{path}" if get_key('DAV_HOST').endswith("/") else f"{get_key('DAV_HOST')}/{path}",headers={
             "Authorization": self.webdav_auth,
             "range": "bytes=0-0",
         })
