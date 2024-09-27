@@ -79,6 +79,9 @@ class pan123Api:
             "Platform": "open_platform",
         }
         self.webdav_auth = get_key("WEBDAV_AUTH")
+        self.webdav_host = get_key("WEBDAV_HOST")
+        if self.webdav_host.endswith("/"):
+            self.webdav_host = self.webdav_host+"/"
 
     def refreshToken(self) -> str:
         try:
@@ -272,7 +275,7 @@ class pan123Api:
     def get302url(self,path):
         if path in self.urlCache:
             return self.urlCache[path]
-        req = requests.get(f"{get_key('DAV_HOST')}{path}" if get_key('DAV_HOST').endswith("/") else f"{get_key('DAV_HOST')}/{path}",headers={
+        req = requests.get(f"{self.webdav_host}{path}",headers={
             "Authorization": self.webdav_auth,
             "range": "bytes=0-0",
         })
