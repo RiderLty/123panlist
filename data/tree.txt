@@ -1,0 +1,2216 @@
+/
+├── 12.12.The.Day.2023.Repack.1080p.WEB-DL.AAC5.1.H.264-DreamHD
+│   ├── 12.12.The.Day.2023.Repack.1080p.WEB-DL.AAC5.1.H.264-DreamHD.mkv
+│   ├── 12.12.The.Day.2023.Repack.1080p.WEB-DL.AAC5.1.H.264-DreamHD.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Akira.1988.JAPANESE.2160p.JPN.BluRay.REMUX.HEVC.TrueHD.5.1-FGT
+│   ├── Akira.1988.JAPANESE.2160p.JPN.BluRay.REMUX.HEVC.TrueHD.5.1-FGT.chs.srt
+│   ├── Akira.1988.JAPANESE.2160p.JPN.BluRay.REMUX.HEVC.TrueHD.5.1-FGT.mkv
+│   ├── Akira.1988.JAPANESE.2160p.JPN.BluRay.REMUX.HEVC.TrueHD.5.1-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Alien.1979.Director's.Cut.BluRay.2160p.HDR.H265.DTS-HD.MA.2Audio
+│   ├── Alien.1979.Director's.Cut.BluRay.2160p.HDR.H265.DTS-HD.MA.2Audio.mkv
+│   ├── Alien.1979.Director's.Cut.BluRay.2160p.HDR.H265.DTS-HD.MA.2Audio.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Alien.3.1992.Special.Edition.BluRay.1080p.H265.DTS-HD.MA.2Audio
+│   ├── Alien.3.1992.Special.Edition.BluRay.1080p.H265.DTS-HD.MA.2Audio.mkv
+│   ├── Alien.3.1992.Special.Edition.BluRay.1080p.H265.DTS-HD.MA.2Audio.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Alien.Covenant.2017.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL
+│   ├── Alien.Covenant.2017.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL.chs.ass
+│   ├── Alien.Covenant.2017.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL.mkv
+│   ├── Alien.Covenant.2017.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Alien.Resurrection.1997.BluRay.1080p.H265.DTS-HD.MA.2Audio
+│   ├── Alien.Resurrection.1997.BluRay.1080p.H265.DTS-HD.MA.2Audio.mkv
+│   ├── Alien.Resurrection.1997.BluRay.1080p.H265.DTS-HD.MA.2Audio.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Aliens.1986.Special.Edition.BluRay.1080p.H265.DTS-HD.MA.2Audio
+│   ├── Aliens.1986.Special.Edition.BluRay.1080p.H265.DTS-HD.MA.2Audio.mkv
+│   ├── Aliens.1986.Special.Edition.BluRay.1080p.H265.DTS-HD.MA.2Audio.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Anamorph.2007.UNRATED.1080p.BluRay.x264.DTS-FGT
+│   ├── Anamorph.2007.UNRATED.1080p.BluRay.x264.DTS-FGT.chs.srt
+│   ├── Anamorph.2007.UNRATED.1080p.BluRay.x264.DTS-FGT.mkv
+│   ├── Anamorph.2007.UNRATED.1080p.BluRay.x264.DTS-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Angels.Egg.1985.JAPANESE.1080p.BluRay.x264-SbR
+│   ├── Angels.Egg.1985.JAPANESE.1080p.BluRay.x264-SbR.chs.ass
+│   ├── Angels.Egg.1985.JAPANESE.1080p.BluRay.x264-SbR.mkv
+│   ├── Angels.Egg.1985.JAPANESE.1080p.BluRay.x264-SbR.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Apocalypse Now 1979.Final.Cut.UHD.Blu-ray.2160p.ATMOS.7.1.HEVC-DDR
+│   ├── Apocalypse Now 1979.Final.Cut.UHD.Blu-ray.2160p.ATMOS.7.1.HEVC-DDR.chs.ass
+│   ├── Apocalypse Now 1979.Final.Cut.UHD.Blu-ray.2160p.ATMOS.7.1.HEVC-DDR.mkv
+│   ├── Apocalypse Now 1979.Final.Cut.UHD.Blu-ray.2160p.ATMOS.7.1.HEVC-DDR.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Aquaman.and.the.Lost.Kingdom.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX[TGx]
+│   ├── Aquaman.and.the.Lost.Kingdom.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.chs.ass
+│   ├── Aquaman.and.the.Lost.Kingdom.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.mkv
+│   ├── Aquaman.and.the.Lost.Kingdom.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-FLUX.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Babylon.2022.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG
+│   ├── Babylon.2022.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG.chs.ass
+│   ├── Babylon.2022.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG.mkv
+│   ├── Babylon.2022.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-RARBG.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Batman.Begins.2005.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1
+│   ├── Batman.Begins.2005.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1.mkv
+│   ├── Batman.Begins.2005.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Black.Hawk.Down.2001.USA.Extended.BluRay.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD
+│   ├── Black.Hawk.Down.2001.USA.Extended.BluRay.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD.mkv
+│   ├── Black.Hawk.Down.2001.USA.Extended.BluRay.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Blade.Runner.1982.The.Final.Cut.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-DEPTH
+│   ├── Blade.Runner.1982.The.Final.Cut.2160p.UHD.BluRay.x265-DEPTH.chs.ass
+│   ├── Blade.Runner.1982.The.Final.Cut.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   ├── Blade.Runner.1982.The.Final.Cut.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Blade.Runner.2049.2017.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ
+│   ├── Blade.Runner.2049.2017.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.chs.ass
+│   ├── Blade.Runner.2049.2017.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv
+│   ├── Blade.Runner.2049.2017.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Bullet.Train.2022.2160p.WEB-DL.x265.10bit.HDR.DDP5.1
+│   ├── Bullet.Train.2022.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.mkv
+│   ├── Bullet.Train.2022.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Burning.2018.GER.UHD.BluRay.2160p.DTS-HD.MA.5.1.x265.10bit-DreamHD
+│   ├── Burning.2018.GER.UHD.BluRay.2160p.DTS-HD.MA.5.1.x265.10bit-DreamHD.chs.ass
+│   ├── Burning.2018.GER.UHD.BluRay.2160p.DTS-HD.MA.5.1.x265.10bit-DreamHD.mkv
+│   ├── Burning.2018.GER.UHD.BluRay.2160p.DTS-HD.MA.5.1.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Catch Me If You Can 2002 BluRay REMUX 1080p AVC DTS-HD MA5.1 4Audio-DreamHD
+│   ├── Catch Me If You Can 2002 BluRay REMUX 1080p AVC DTS-HD MA5.1 4Audio-DreamHD.mkv
+│   ├── Catch Me If You Can 2002 BluRay REMUX 1080p AVC DTS-HD MA5.1 4Audio-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── City.of.God.2002.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-DreamHD
+│   ├── City.of.God.2002.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-DreamHD.mkv
+│   ├── City.of.God.2002.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Cold.War.2012.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1
+│   ├── Cold.War.2012.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.chs.srt
+│   ├── Cold.War.2012.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.mkv
+│   ├── Cold.War.2012.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Cold.War.II.2016.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1
+│   ├── Cold.War.II.2016.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1.chs.srt
+│   ├── Cold.War.II.2016.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1.mkv
+│   ├── Cold.War.II.2016.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Dead.Poets.Society.1989.BluRay.1080p.x265.10bit.3Audio-MiniHD
+│   ├── Dead.Poets.Society.1989.BluRay.1080p.x265.10bit.3Audio-MiniHD.mkv
+│   ├── Dead.Poets.Society.1989.BluRay.1080p.x265.10bit.3Audio-MiniHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Deadpool.2.2018.V2.Bluray.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD
+│   ├── Deadpool.2.2018.V2.Bluray.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.mkv
+│   ├── Deadpool.2.2018.V2.Bluray.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Deadpool.2016.BluRay.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD
+│   ├── Deadpool.2016.BluRay.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.mkv
+│   ├── Deadpool.2016.BluRay.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Detachment.2011.CAN.Bluray.1080p.DTS-HD.x264-Grym
+│   ├── Detachment.2011.CAN.Bluray.1080p.DTS-HD.x264-Grym.chs.ass
+│   ├── Detachment.2011.CAN.Bluray.1080p.DTS-HD.x264-Grym.mkv
+│   ├── Detachment.2011.CAN.Bluray.1080p.DTS-HD.x264-Grym.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── District.9.2009.2160p.BluRay.HEVC.en&zh.TrueHD.7.1.Atmos
+│   ├── District.9.2009.2160p.BluRay.HEVC.en&zh.TrueHD.7.1.Atmos.mkv
+│   ├── District.9.2009.2160p.BluRay.HEVC.en&zh.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Dungeons.and.Dragons.Honor.Among.Thieves.2023.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos.x265-NOGRP
+│   ├── Dungeons.and.Dragons.Honor.Among.Thieves.2023.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos.x265-NOGRP.chs.ass
+│   ├── Dungeons.and.Dragons.Honor.Among.Thieves.2023.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos.x265-NOGRP.mkv
+│   ├── Dungeons.and.Dragons.Honor.Among.Thieves.2023.2160p.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos.x265-NOGRP.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── El.Camino-A.Breaking.Bad.Movie.2019. 2160p.HDR
+│   ├── El.Camino-A.Breaking.Bad.Movie.2019. 2160p.HDR.mkv
+│   ├── El.Camino-A.Breaking.Bad.Movie.2019. 2160p.HDR.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Election.2.2006.BluRay.1080p.AVC.DTS-HD.MA5.1
+│   ├── Election.2.2006.BluRay.1080p.AVC.DTS-HD.MA5.1.mkv
+│   ├── Election.2.2006.BluRay.1080p.AVC.DTS-HD.MA5.1.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Election.2005.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1
+│   ├── Election.2005.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1.mkv
+│   ├── Election.2005.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Evangelion 1.11 You Are (Not) Alone 2007 [BD 1920x1080 23.976fps AVC-yuv420p10 FLAC]
+│   ├── Evangelion 1.11 You Are (Not) Alone 2007 [BD 1920x1080 23.976fps AVC-yuv420p10 FLAC].mkv
+│   ├── Evangelion 1.11 You Are (Not) Alone 2007 [BD 1920x1080 23.976fps AVC-yuv420p10 FLAC].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Evangelion 2.22 You Can (Not) Advance 2009 [BD 1920x1080 23.976fps AVC-yuv420p10 FLAC]
+│   ├── Evangelion 2.22 You Can (Not) Advance 2009 [BD 1920x1080 23.976fps AVC-yuv420p10 FLAC].mkv
+│   ├── Evangelion 2.22 You Can (Not) Advance 2009 [BD 1920x1080 23.976fps AVC-yuv420p10 FLAC].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Evangelion 3.33 You Can (Not) Redo [BD 1920x1080 23.976fps AVC-yuv420p10 FLAC AC3]
+│   ├── [Kamigami-Raws] Evangelion 3.33 You Can (Not) Redo. [BD 1920x816 x264 FLAC(5.1ch,2.0ch)].mkv
+│   ├── [Kamigami-Raws] Evangelion 3.33 You Can (Not) Redo. [BD 1920x816 x264 FLAC(5.1ch,2.0ch)].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Evangelion.3.0+1.01 Thrice Upon a Time 2021 [1080p.AMZN.WEB-DL.DDP5.1.H.264-KRP]
+│   ├── Evangelion.3.0+1.01 Thrice Upon a Time 2021 [1080p.AMZN.WEB-DL.DDP5.1.H.264-KRP].mkv
+│   ├── Evangelion.3.0+1.01 Thrice Upon a Time 2021 [1080p.AMZN.WEB-DL.DDP5.1.H.264-KRP].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Exhuma.2024.1080p.iTunes.WEB-DL.DD5.1.H.264-HHWEB.mkv
+│   ├── Exhuma.2024.1080p.iTunes.WEB-DL.DD5.1.H.264-HHWEB.mkv
+│   ├── Exhuma.2024.1080p.iTunes.WEB-DL.DD5.1.H.264-HHWEB.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Fargo.1996.2160p.UHD.BluRay.x265.10bit.DV.DTS-HD.MA.5.1-SONYHD
+│   ├── Fargo.1996.2160p.UHD.BluRay.x265.10bit.DV.DTS-HD.MA.5.1-SONYHD.mkv
+│   ├── Fargo.1996.2160p.UHD.BluRay.x265.10bit.DV.DTS-HD.MA.5.1-SONYHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Fight.Club.1999.REMASTERED.1080p.BluRay.x264.DTS-FGT
+│   ├── Fight.Club.1999.REMASTERED.1080p.BluRay.x264.DTS-FGT.mkv
+│   ├── Fight.Club.1999.REMASTERED.1080p.BluRay.x264.DTS-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Fist.of.Legend.1994.2160p.BluRay.DoVi.x265.10bit.DTS-TAGHD
+│   ├── Fist.of.Legend.1994.2160p.BluRay.DoVi.x265.10bit.DTS-TAGHD.mkv
+│   ├── Fist.of.Legend.1994.2160p.BluRay.DoVi.x265.10bit.DTS-TAGHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Flipped 2010 Blu-Ray 1080p AVC DTS-HD MA51-TTG.m2ts
+│   ├── Flipped 2010 Blu-Ray 1080p AVC DTS-HD MA51-TTG.m2ts.mkv
+│   ├── Flipped 2010 Blu-Ray 1080p AVC DTS-HD MA51-TTG.m2ts.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Frank.and.Penelope.2022.BluRay.1080p.DTS-HDMA5.1.x265.10bit-DreamHD
+│   ├── Frank.and.Penelope.2022.BluRay.1080p.DTS-HDMA5.1.x265.10bit-DreamHD.mkv
+│   ├── Frank.and.Penelope.2022.BluRay.1080p.DTS-HDMA5.1.x265.10bit-DreamHD.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Free.and.Easy.2016.CHINESE.1080p.BluRay.x264.DTS-PTer
+│   ├── Free.and.Easy.2016.1080p.Bluray.DTS.x264-PTer.chs.srt
+│   ├── Free.and.Easy.2016.1080p.Bluray.DTS.x264-PTer.mkv
+│   ├── Free.and.Easy.2016.1080p.Bluray.DTS.x264-PTer.nfo
+│   ├── fanart.jpg
+│   ├── landscape.png
+│   └── poster.jpg
+├── Furiosa.A.Mad.Max.Saga.2024.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC
+│   ├── Furiosa.A.Mad.Max.Saga.2024.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC.chs.ass
+│   ├── Furiosa.A.Mad.Max.Saga.2024.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC.mkv
+│   ├── Furiosa.A.Mad.Max.Saga.2024.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ghost.in.the.Shell.1995.JAPANESE.2160p.USA.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT
+│   ├── Ghost.in.the.Shell.1995.JAPANESE.2160p.USA.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.chs.ass
+│   ├── Ghost.in.the.Shell.1995.JAPANESE.2160p.USA.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.mkv
+│   ├── Ghost.in.the.Shell.1995.JAPANESE.2160p.USA.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ghost.in.the.Shell.2.Innocence.2004.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT
+│   ├── Ghost.in.the.Shell.2.Innocence.2004.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT.chs.srt
+│   ├── Ghost.in.the.Shell.2.Innocence.2004.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT.mkv
+│   ├── Ghost.in.the.Shell.2.Innocence.2004.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ghost.in.the.Shell.2017.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-SONYHD
+│   ├── Ghost.in.the.Shell.2017.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-SONYHD.mkv
+│   ├── Ghost.in.the.Shell.2017.2160p.UHD.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-SONYHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Gladiator.2000.EXTENDED.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT
+│   ├── Gladiator.2000.EXTENDED.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT.chs.ass
+│   ├── Gladiator.2000.EXTENDED.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT.mkv
+│   ├── Gladiator.2000.EXTENDED.2160p.BluRay.REMUX.HEVC.DTS-X.7.1-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Godzilla.2014.2160p.HEVC.Atmos
+│   ├── Godzilla.2014.2160p.HEVC.Atmos.mkv
+│   ├── Godzilla.2014.2160p.HEVC.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Godzilla.King.of.the.Monsters.2019.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1
+│   ├── Godzilla.King.of.the.Monsters.2019.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.chs.ass
+│   ├── Godzilla.King.of.the.Monsters.2019.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.mkv
+│   ├── Godzilla.King.of.the.Monsters.2019.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Godzilla.vs.Kong.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1
+│   ├── Godzilla.vs.Kong.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.chs.ass
+│   ├── Godzilla.vs.Kong.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.mkv
+│   ├── Godzilla.vs.Kong.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Guillermo.del.Toro's.Pinocchio.2022.2160p.Criterion.Collection.UHD.Blu-ray.Remux.HEVC.TrueHD.7.1.Atmos-DreamRu
+│   ├── Guillermo.del.Toro's.Pinocchio.2022.2160p.Criterion.Collection.UHD.Blu-ray.Remux.HEVC.TrueHD.7.1.Atmos-DreamRu.mkv
+│   ├── Guillermo.del.Toro's.Pinocchio.2022.2160p.Criterion.Collection.UHD.Blu-ray.Remux.HEVC.TrueHD.7.1.Atmos-DreamRu.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Hardcore.Henry.2015.BluRay.1080p.DTS-HD.MA.5.1.x264-BBQDDQ
+│   ├── Hardcore.Henry.2015.BluRay.1080p.DTS-HD.MA.5.1.x264-BBQDDQ.mkv
+│   ├── Hardcore.Henry.2015.BluRay.1080p.DTS-HD.MA.5.1.x264-BBQDDQ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Chamber.of.Secrets.2002.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Chamber.of.Secrets.2002.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Chamber.of.Secrets.2002.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Deathly.Hallows.Part.1.2010.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Deathly.Hallows.Part.2.2011.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Goblet.of.Fire.2005.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Goblet.of.Fire.2005.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Goblet.of.Fire.2005.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Half-Blood.Prince.2009.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Half-Blood.Prince.2009.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Half-Blood.Prince.2009.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Order.of.the.Phoenix.2007.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Order.of.the.Phoenix.2007.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Order.of.the.Phoenix.2007.2160p.UHD.BluRay.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Prisoner.of.Azkaban.2004.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Prisoner.of.Azkaban.2004.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Prisoner.of.Azkaban.2004.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Harry.Potter.and.the.Sorcerers.Stone.2001.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH
+│   ├── Harry.Potter.and.the.Sorcerers.Stone.2001.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.mkv
+│   ├── Harry.Potter.and.the.Sorcerers.Stone.2001.UHD.BluRay.2160p.x265.HDR.10bit.DTS-HD.MA.7.1-HDH.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Heat (1995) (2160p BluRay x265 HEVC 10bit HDR DTS 7.1 SAMPA)
+│   ├── Heat (1995) (2160p BluRay x265 HEVC 10bit HDR DTS 7.1 SAMPA).chs.ass
+│   ├── Heat (1995) (2160p BluRay x265 HEVC 10bit HDR DTS 7.1 SAMPA).mkv
+│   ├── Heat (1995) (2160p BluRay x265 HEVC 10bit HDR DTS 7.1 SAMPA).nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Hunt.2022.UHD.BluRay.2160p.DTS-HD.MA5.1.x265.10bit.HDR-ALT
+│   ├── Hunt.2022.UHD.BluRay.2160p.DTS-HD.MA5.1.x265.10bit.HDR-ALT.mkv
+│   ├── Hunt.2022.UHD.BluRay.2160p.DTS-HD.MA5.1.x265.10bit.HDR-ALT.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── In.the.Heat.of.the.Sun.1994.1080p.BluRay.DTS.5.1.x265-GPTHD
+│   ├── In.the.Heat.of.the.Sun.1994.1080p.BluRay.DTS.5.1.x265-GPTHD.mkv
+│   ├── In.the.Heat.of.the.Sun.1994.1080p.BluRay.DTS.5.1.x265-GPTHD.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Inception.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1
+│   ├── Inception.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1.chs.ass
+│   ├── Inception.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1.mkv
+│   ├── Inception.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Inglourious.Basterds.2009.BluRay.2160p.DTS-HD.MA.5.1.HDR.x265.10bit-DreamHD
+│   ├── Inglourious.Basterds.2009.BluRay.2160p.DTS-HD.MA.5.1.HDR.x265.10bit-DreamHD.chs.ass
+│   ├── Inglourious.Basterds.2009.BluRay.2160p.DTS-HD.MA.5.1.HDR.x265.10bit-DreamHD.mkv
+│   ├── Inglourious.Basterds.2009.BluRay.2160p.DTS-HD.MA.5.1.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Inside.Men.2015.Director.s.Cut.1080p.BluRay.x264.DTS-WiKi
+│   ├── Inside.Men.2015.Director.s.Cut.1080p.BluRay.x264.DTS-WiKi.chs.srt
+│   ├── Inside.Men.2015.Director.s.Cut.1080p.BluRay.x264.DTS-WiKi.mkv
+│   ├── Inside.Men.2015.Director.s.Cut.1080p.BluRay.x264.DTS-WiKi.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Interstellar.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-TERMiNAL
+│   ├── Interstellar.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-TERMiNAL.chs.ass
+│   ├── Interstellar.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-TERMiNAL.mkv
+│   ├── Interstellar.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-TERMiNAL.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ip.Man.2.2010.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos
+│   ├── Ip.Man.2.2010.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.chs.srt
+│   ├── Ip.Man.2.2010.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.mkv
+│   ├── Ip.Man.2.2010.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ip.Man.2008.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos
+│   ├── Ip.Man.2008.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.chs.srt
+│   ├── Ip.Man.2008.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.mkv
+│   ├── Ip.Man.2008.CHINESE.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ip.Man.3.2015.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos
+│   ├── Ip.Man.3.2015.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos.chs.srt
+│   ├── Ip.Man.3.2015.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos.mkv
+│   ├── Ip.Man.3.2015.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ip.Man.4.The.Finale.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos
+│   ├── Ip.Man.4.The.Finale.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos.chs.srt
+│   ├── Ip.Man.4.The.Finale.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos.mkv
+│   ├── Ip.Man.4.The.Finale.2019.CHINESE.2160p.BluRay.REMUX.HEVC.DV.DTS-HD.MA.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── John.Wick.2014.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CTRLHD
+│   ├── John.Wick.2014.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CTRLHD.mkv
+│   ├── John.Wick.2014.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-CTRLHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── John.Wick.Chapter.2.2017.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-GameHD
+│   ├── John.Wick.Chapter.2.2017.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-GameHD.mkv
+│   ├── John.Wick.Chapter.2.2017.BluRay.2160p.TrueHD.7.1.HDR.x265.10bit-GameHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── John.Wick.Chapter.3.Parabellum.2019.UHD.BluRay.2160p.TrueHD.Atmos.7.1.x265.10bit.HDR-ALT
+│   ├── John.Wick.Chapter.3.Parabellum.2019.UHD.BluRay.2160p.TrueHD.Atmos.7.1.x265.10bit.HDR-ALT.mkv
+│   ├── John.Wick.Chapter.3.Parabellum.2019.UHD.BluRay.2160p.TrueHD.Atmos.7.1.x265.10bit.HDR-ALT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart1.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── John.Wick.Chapter.4.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-PanTV
+│   ├── John.Wick.Chapter.4.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-PanTV.mkv
+│   ├── John.Wick.Chapter.4.2023.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-PanTV.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart1.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Joint.Security.Area.2000.UHD.BluRay.2160p.TrueHD.Atmos.7.1.x265.10bit.SDR-ALT
+│   ├── Joint.Security.Area.2000.UHD.BluRay.2160p.TrueHD.Atmos.7.1.x265.10bit.SDR-ALT.chs.ass
+│   ├── Joint.Security.Area.2000.UHD.BluRay.2160p.TrueHD.Atmos.7.1.x265.10bit.SDR-ALT.mkv
+│   ├── Joint.Security.Area.2000.UHD.BluRay.2160p.TrueHD.Atmos.7.1.x265.10bit.SDR-ALT.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Joker.2019 [UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265]
+│   ├── Joker.2019 [UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265].chs.ass
+│   ├── Joker.2019 [UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265].mkv
+│   ├── Joker.2019 [UHD 4K BluRay 2160p DoVi HDR10 TrueHD 7.1 Atmos H.265].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Kaibutsu 2023 bluRay Remux AVC 1080p DTS-HDMA5.1-DreamHD
+│   ├── Kaibutsu 2023 bluRay Remux AVC 1080p DTS-HDMA5.1-DreamHD.mkv
+│   ├── Kaibutsu 2023 bluRay Remux AVC 1080p DTS-HDMA5.1-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Kill.Bill.Vol.1.2003.1080p.BluRay.x265.10bit.FLAC.5.1-SONYHD
+│   ├── Kill.Bill.Vol.1.2003.1080p.BluRay.x265.10bit.FLAC.5.1-SONYHD.mkv
+│   ├── Kill.Bill.Vol.1.2003.1080p.BluRay.x265.10bit.FLAC.5.1-SONYHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Kill.Bill.Vol.2.2004.1080p.BluRay.x265.10bit.DTS-SONYHD
+│   ├── Kill.Bill.Vol.2.2004.1080p.BluRay.x265.10bit.DTS-SONYHD.mkv
+│   ├── Kill.Bill.Vol.2.2004.1080p.BluRay.x265.10bit.DTS-SONYHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Killers.Of.The.Flower.Moon.2023.REPACK.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-FLUX[TGx]
+│   ├── Killers.Of.The.Flower.Moon.2023.REPACK.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-FLUX.mkv
+│   ├── Killers.Of.The.Flower.Moon.2023.REPACK.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-FLUX.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Kingsglaive.Final.Fantasy.XV.2016.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1
+│   ├── Kingsglaive.Final.Fantasy.XV.2016.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1.chs.ass
+│   ├── Kingsglaive.Final.Fantasy.XV.2016.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1.mkv
+│   ├── Kingsglaive.Final.Fantasy.XV.2016.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Kite.1998.1080P.repack
+│   ├── Kite.1998.1080P.repack.chs.srt
+│   ├── Kite.1998.1080P.repack.mkv
+│   ├── Kite.1998.1080P.repack.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Knife.Under.the.Throat.1986.FRENCH.1080p.BluRay.x264.FLAC2.0-SB
+│   ├── Knife.Under.the.Throat.1986.FRENCH.1080p.BluRay.x264.FLAC2.0-SB.chs.srt
+│   ├── Knife.Under.the.Throat.1986.FRENCH.1080p.BluRay.x264.FLAC2.0-SB.mkv
+│   ├── Knife.Under.the.Throat.1986.FRENCH.1080p.BluRay.x264.FLAC2.0-SB.nfo
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Kung.Fu.Panda.4.2024.2160p.WEB.h265-ETHEL[TGx]
+│   ├── Kung.Fu.Panda.4.2024.2160p.WEB.h265-ETHEL.chs.srt
+│   ├── Kung.Fu.Panda.4.2024.2160p.WEB.h265-ETHEL.mkv
+│   ├── Kung.Fu.Panda.4.2024.2160p.WEB.h265-ETHEL.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── La.La.Land.2016.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL
+│   ├── La.La.Land.2016.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL.chs.ass
+│   ├── La.La.Land.2016.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL.mkv
+│   ├── La.La.Land.2016.2160p.BluRay.x265.10bit.HDR.TrueHD.7.1.Atmos-TERMiNAL.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Les.choristes.2004.2160p.IQY.WEB-DL.H265.HDR.DDP5.1.2Audio-DreamHD
+│   ├── Les.choristes.2004.2160p.IQY.WEB-DL.H265.HDR.DDP5.1.2Audio-DreamHD.mkv
+│   ├── Les.choristes.2004.2160p.IQY.WEB-DL.H265.HDR.DDP5.1.2Audio-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Life.is.Beautiful.1997.Extend.Edtion.BluRay.1080p.DTS.x264-CHD
+│   ├── Life.is.Beautiful.1997.Extend.Edtion.BluRay.1080p.DTS.x264-CHD.chs.srt
+│   ├── Life.is.Beautiful.1997.Extend.Edtion.BluRay.1080p.DTS.x264-CHD.mkv
+│   ├── Life.is.Beautiful.1997.Extend.Edtion.BluRay.1080p.DTS.x264-CHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Life.of.Pi.2012.BluRay.2160p.HDR.x265.DTS-HD.MA7.1.2Audio.BOBO
+│   ├── Life.of.Pi.2012.BluRay.2160p.HDR.x265.DTS-HD.MA7.1.2Audio.BOBO.chs.ass
+│   ├── Life.of.Pi.2012.BluRay.2160p.HDR.x265.DTS-HD.MA7.1.2Audio.BOBO.mkv
+│   ├── Life.of.Pi.2012.BluRay.2160p.HDR.x265.DTS-HD.MA7.1.2Audio.BOBO.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Lucy.2014.2160p.BluRay.x265.10bit.Atmos.TrueHD7.1-CTRLHD
+│   ├── Lucy.2014.2160p.BluRay.x265.10bit.Atmos.TrueHD7.1-CTRLHD.mkv
+│   ├── Lucy.2014.2160p.BluRay.x265.10bit.Atmos.TrueHD7.1-CTRLHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Léon
+│   ├── Léon.mkv
+│   ├── Léon.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mad.God.2021.1080p.BluRay.x264
+│   ├── Mad.God.2021.1080p.BluRay.x264.mkv
+│   ├── Mad.God.2021.1080p.BluRay.x264.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Maharaja.2024.2160p.NF.WEB-DL.DDP5.1.H.265-BATWEB
+│   ├── Maharaja.2024.2160p.NF.WEB-DL.DDP5.1.H.265-BATWEB.chs.srt
+│   ├── Maharaja.2024.2160p.NF.WEB-DL.DDP5.1.H.265-BATWEB.mkv
+│   ├── Maharaja.2024.2160p.NF.WEB-DL.DDP5.1.H.265-BATWEB.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Malignant.2021.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ
+│   ├── Malignant.2021.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.mkv
+│   ├── Malignant.2021.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.1080p.BluRay.x264-WiKi
+│   ├── Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.1080p.BluRay.x264-WiKi.mkv
+│   ├── Maquia.When.the.Promised.Flower.Blooms.2018.JAPANESE.1080p.BluRay.x264-WiKi.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Men.in.Black.1997.25th.Anniversary.Edition.2160p.BluRay.HEVC.DV.en&zh.TrueHD.7.1
+│   ├── Men.in.Black.1997.25th.Anniversary.Edition.2160p.BluRay.HEVC.DV.en&zh.TrueHD.7.1.mkv
+│   ├── Men.in.Black.1997.25th.Anniversary.Edition.2160p.BluRay.HEVC.DV.en&zh.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Men.in.Black.3.2012.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos-
+│   ├── Men.in.Black.3.2012.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos-.mkv
+│   ├── Men.in.Black.3.2012.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos-.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Men.in.Black.II.2002.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos
+│   ├── Men.in.Black.II.2002.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos.mkv
+│   ├── Men.in.Black.II.2002.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Men.in.Black.International.2019.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos
+│   ├── Men.in.Black.International.2019.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos.chs.ass
+│   ├── Men.in.Black.International.2019.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos.mkv
+│   ├── Men.in.Black.International.2019.2160p.BluRay.REMUX.HEVC.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Millennium.Actress.2001.JAPANESE.2160p.BluRay.REMUX.SDR.HEVC.DTS-HD.MA.5.1-FGT
+│   ├── Millennium.Actress.2001.JAPANESE.2160p.BluRay.REMUX.SDR.HEVC.DTS-HD.MA.5.1-FGT.chs.srt
+│   ├── Millennium.Actress.2001.JAPANESE.2160p.BluRay.REMUX.SDR.HEVC.DTS-HD.MA.5.1-FGT.mkv
+│   ├── Millennium.Actress.2001.JAPANESE.2160p.BluRay.REMUX.SDR.HEVC.DTS-HD.MA.5.1-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mission.Impossible.1996.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1
+│   ├── Mission.Impossible.1996.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1.mkv
+│   ├── Mission.Impossible.1996.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mission.Impossible.Dead.Reckoning.Part.One.2023.V2.Bluray.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD
+│   ├── Mission.Impossible.Dead.Reckoning.Part.One.2023.V2.Bluray.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD.mkv
+│   ├── Mission.Impossible.Dead.Reckoning.Part.One.2023.V2.Bluray.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mission.Impossible.Fallout.2018.IMAX.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos
+│   ├── Mission.Impossible.Fallout.2018.IMAX.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.mkv
+│   ├── Mission.Impossible.Fallout.2018.IMAX.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mission.Impossible.Ghost.Protocol.2011.2160p.BluRay.REMUX.DV.HEVC.TrueHD.7.1
+│   ├── Mission.Impossible.Ghost.Protocol.2011.2160p.BluRay.REMUX.DV.HEVC.TrueHD.7.1.mkv
+│   ├── Mission.Impossible.Ghost.Protocol.2011.2160p.BluRay.REMUX.DV.HEVC.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mission.Impossible.II.2000.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1
+│   ├── Mission.Impossible.II.2000.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1.mkv
+│   ├── Mission.Impossible.II.2000.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mission.Impossible.III.2006.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1
+│   ├── Mission.Impossible.III.2006.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1.mkv
+│   ├── Mission.Impossible.III.2006.2160p.BluRay.REMUX.HEVC.DV.TrueHD.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Mission.Impossible.Rogue.Nation.2015.2160p.Dolby.Vision.HEVC.10bit.DTS-HD.MA.TrueHD.7.1
+│   ├── Mission.Impossible.Rogue.Nation.2015.2160p.Dolby.Vision.HEVC.10bit.DTS-HD.MA.TrueHD.7.1.Atmos.mkv
+│   ├── Mission.Impossible.Rogue.Nation.2015.2160p.Dolby.Vision.HEVC.10bit.DTS-HD.MA.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Moonfall.2022.BluRay.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD
+│   ├── Moonfall.2022.BluRay.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.mkv
+│   ├── Moonfall.2022.BluRay.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── New World 2013 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo
+│   ├── New World 2013 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo.chs.srt
+│   ├── New World 2013 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo.mkv
+│   ├── New World 2013 1080p Blu-ray Remux AVC DTS-HD MA 5.1 - KRaLiMaRKo.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Once.upon.a.Time.in.Hollywood.2019.2160p.UHD.BluRay.x265-TERMiNAL
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── once.upon.a.time.in.hollywood.2019.2160p.uhd.bluray.x265-terminal.chs.srt
+│   ├── once.upon.a.time.in.hollywood.2019.2160p.uhd.bluray.x265-terminal.mkv
+│   ├── once.upon.a.time.in.hollywood.2019.2160p.uhd.bluray.x265-terminal.nfo
+│   └── poster.jpg
+├── Oppenheimer 2023 2160p UHD BluRay DV HDR10+ DDP 5.1 x265-BiTOR
+│   ├── Oppenheimer 2023 2160p UHD BluRay DV HDR10+ DDP 5.1 x265-BiTOR.mkv
+│   ├── Oppenheimer 2023 2160p UHD BluRay DV HDR10+ DDP 5.1 x265-BiTOR.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── PTU.2003.BluRay.1080p.BluRay.REMUX.AVC.PCM.7.1
+│   ├── PTU.2003.BluRay.1080p.BluRay.REMUX.AVC.PCM.7.1.mkv
+│   ├── PTU.2003.BluRay.1080p.BluRay.REMUX.AVC.PCM.7.1.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Pacific.Rim.2013.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.Atmos
+│   ├── Pacific.Rim.2013.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.Atmos.mkv
+│   ├── Pacific.Rim.2013.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.7.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Pacific.Rim.Uprising.2018.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos
+│   ├── Pacific.Rim.Uprising.2018.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.mkv
+│   ├── Pacific.Rim.Uprising.2018.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Pirates.of.the.Caribbean.At.Worlds.End.2007.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS
+│   ├── Pirates.of.the.Caribbean.At.Worlds.End.2007.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.mkv
+│   ├── Pirates.of.the.Caribbean.At.Worlds.End.2007.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS
+│   ├── Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.mkv
+│   ├── Pirates.of.the.Caribbean.Dead.Man's.Chest.2006.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS
+│   ├── Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.mkv
+│   ├── Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Pirates.of.the.Caribbean.On.Stranger.Tides.2011.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS
+│   ├── Pirates.of.the.Caribbean.On.Stranger.Tides.2011.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.mkv
+│   ├── Pirates.of.the.Caribbean.On.Stranger.Tides.2011.UHD.BluRay.2160p.x265.10bit.DoVi.2Audios.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.UHD.BluRay.2160p.x265.10bit.DoVi.3Audios.mUHD-FRDS
+│   ├── Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.UHD.BluRay.2160p.x265.10bit.DoVi.3Audios.mUHD-FRDS.mkv
+│   ├── Pirates.of.the.Caribbean.The.Curse.of.the.Black.Pearl.2003.UHD.BluRay.2160p.x265.10bit.DoVi.3Audios.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Poor.Things.2023.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]
+│   ├── Poor.Things.2023.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX.chs.ass
+│   ├── Poor.Things.2023.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv
+│   ├── Poor.Things.2023.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Predestination.2014.Bluray.1080p.DTS-HD.x264-Grym
+│   ├── Predestination.2014.Bluray.1080p.DTS-HD.x264-Grym.chs.ass
+│   ├── Predestination.2014.Bluray.1080p.DTS-HD.x264-Grym.mkv
+│   ├── Predestination.2014.Bluray.1080p.DTS-HD.x264-Grym.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Prison.on.Fire.II.1991
+│   ├── Prison.on.Fire.II.1991.mkv
+│   ├── Prison.on.Fire.II.1991.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Prison.on.fire.1987.HKG.BluRay.1080p.x265.10bit.DDP7.1.REPACK.H-MiniHD
+│   ├── Prison.on.fire.1987.HKG.BluRay.1080p.x265.10bit.DDP7.1.REPACK.H-MiniHD.mkv
+│   ├── Prison.on.fire.1987.HKG.BluRay.1080p.x265.10bit.DDP7.1.REPACK.H-MiniHD.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Project.Gutenberg.2018.CHINESE.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT
+│   ├── Project.Gutenberg.2018.CHINESE.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.chs.ass
+│   ├── Project.Gutenberg.2018.CHINESE.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.mkv
+│   ├── Project.Gutenberg.2018.CHINESE.1080p.BluRay.REMUX.AVC.DTS-HD.MA.TrueHD.7.1.Atmos-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Prometheus.2012.BluRay.2160p.HDR.H265.DTS-HD.MA.7.1.2Audio
+│   ├── Prometheus.2012.BluRay.2160p.HDR.H265.DTS-HD.MA.7.1.2Audio.mkv
+│   ├── Prometheus.2012.BluRay.2160p.HDR.H265.DTS-HD.MA.7.1.2Audio.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Pulp.Fiction.1994.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-RARBG
+│   ├── Pulp.Fiction.1994.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-RARBG.chs.srt
+│   ├── Pulp.Fiction.1994.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-RARBG.mkv
+│   ├── Pulp.Fiction.1994.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-RARBG.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Ready.Player.One.2018.V2.Bluray.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD
+│   ├── Ready.Player.One.2018.V2.Bluray.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD.mkv
+│   ├── Ready.Player.One.2018.V2.Bluray.2160p.TrueHD7.1.DoVi.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Resident.Evil.2002.2160p.BluRay.HEVC.DV.en&zh.TrueHD.7.1.Atmos
+│   ├── Resident.Evil.2002.2160p.BluRay.HEVC.DV.en&zh.TrueHD.7.1.Atmos.mkv
+│   ├── Resident.Evil.2002.2160p.BluRay.HEVC.DV.en&zh.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Resident.Evil.Afterlife.2010.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos
+│   ├── Resident.Evil.Afterlife.2010.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.mkv
+│   ├── Resident.Evil.Afterlife.2010.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Resident.Evil.Apocalypse.Uncut.2004.2160p.BluRay.Theatrical Cut.DV.REMUX.HEVC.TrueHD.7.1.Atmos
+│   ├── Resident.Evil.Apocalypse.Uncut.2004.2160p.BluRay.Theatrical Cut.DV.REMUX.HEVC.TrueHD.7.1.Atmos.mkv
+│   ├── Resident.Evil.Apocalypse.Uncut.2004.2160p.BluRay.Theatrical Cut.DV.REMUX.HEVC.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Resident.Evil.Extinction.2007.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos
+│   ├── Resident.Evil.Extinction.2007.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.mkv
+│   ├── Resident.Evil.Extinction.2007.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Resident.Evil.Retribution.2012.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos
+│   ├── Resident.Evil.Retribution.2012.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.mkv
+│   ├── Resident.Evil.Retribution.2012.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Resident.Evil.The.Final.Chapter.2016.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos
+│   ├── Resident.Evil.The.Final.Chapter.2016.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.chs.ass
+│   ├── Resident.Evil.The.Final.Chapter.2016.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.mkv
+│   ├── Resident.Evil.The.Final.Chapter.2016.2160p.BluRay.REMUX.HEVC.DV.en&zh.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Resident.Evil.Welcome.to.Raccoon.City.2021.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos
+│   ├── Resident.Evil.Welcome.to.Raccoon.City.2021.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.mkv
+│   ├── Resident.Evil.Welcome.to.Raccoon.City.2021.2160p.BluRay.HEVC.DV.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Rurouni.Kenshin.2012.BluRay.1080p.TrueHD.5.1.x265.10bit-DreamHD
+│   ├── Rurouni.Kenshin.2012.BluRay.1080p.TrueHD.5.1.x265.10bit-DreamHD.mkv
+│   ├── Rurouni.Kenshin.2012.BluRay.1080p.TrueHD.5.1.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Rurouni.Kenshin.Kyoto.Inferno.2014.JAPANESE.1080p.BluRay.x264-WiKi
+│   ├── Rurouni.Kenshin.Kyoto.Inferno.2014.JAPANESE.1080p.BluRay.x264-WiKi.chs.srt
+│   ├── Rurouni.Kenshin.Kyoto.Inferno.2014.JAPANESE.1080p.BluRay.x264-WiKi.mkv
+│   ├── Rurouni.Kenshin.Kyoto.Inferno.2014.JAPANESE.1080p.BluRay.x264-WiKi.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Rurouni.Kenshin.The.Beginning.2021.BluRay.1080p.TrueHD7.1.x265.10bit-ALT
+│   ├── Rurouni.Kenshin.The.Beginning.2021.BluRay.1080p.TrueHD7.1.x265.10bit-ALT.mkv
+│   ├── Rurouni.Kenshin.The.Beginning.2021.BluRay.1080p.TrueHD7.1.x265.10bit-ALT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Rurouni.Kenshin.The.Final.2021.Bluray.1080p.x265.10bit.DDP.7.1-MiniHD
+│   ├── Rurouni.Kenshin.The.Final.2021.Bluray.1080p.x265.10bit.DDP.7.1-MiniHD.mkv
+│   ├── Rurouni.Kenshin.The.Final.2021.Bluray.1080p.x265.10bit.DDP.7.1-MiniHD.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Rurouni.Kenshin.The.Legend.Ends.2014.JAPANESE.1080p.BluRay.x264-WiKi
+│   ├── Rurouni.Kenshin.The.Legend.Ends.2014.JAPANESE.1080p.BluRay.x264-WiKi.chs.srt
+│   ├── Rurouni.Kenshin.The.Legend.Ends.2014.JAPANESE.1080p.BluRay.x264-WiKi.mkv
+│   ├── Rurouni.Kenshin.The.Legend.Ends.2014.JAPANESE.1080p.BluRay.x264-WiKi.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Scarface.1983.COMPLETE.UHD.BluRay.2160p.DTS-HD.MA7.1.x265.10bit-DreamHD
+│   ├── Scarface.1983.COMPLETE.UHD.BluRay.2160p.DTS-HD.MA7.1.x265.10bit-DreamHD.chs.ass
+│   ├── Scarface.1983.COMPLETE.UHD.BluRay.2160p.DTS-HD.MA7.1.x265.10bit-DreamHD.mkv
+│   ├── Scarface.1983.COMPLETE.UHD.BluRay.2160p.DTS-HD.MA7.1.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Scent.of.a.Woman.1992.BluRay.1080p.DTS.2Audio.x264-CHD
+│   ├── Scent.of.a.Woman.1992.BluRay.1080p.DTS.2Audio.x264-CHD.chs.srt
+│   ├── Scent.of.a.Woman.1992.BluRay.1080p.DTS.2Audio.x264-CHD.mkv
+│   ├── Scent.of.a.Woman.1992.BluRay.1080p.DTS.2Audio.x264-CHD.nfo
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Se7en.1995.REMASTERED.1080p.BluRay.x264.DTS-ES-FGT
+│   ├── Se7en.1995.REMASTERED.1080p.BluRay.x264.DTS-ES-FGT.chs.ass
+│   ├── Se7en.1995.REMASTERED.1080p.BluRay.x264.DTS-ES-FGT.mkv
+│   ├── Se7en.1995.REMASTERED.1080p.BluRay.x264.DTS-ES-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Shadow.2018.CHINESE.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ
+│   ├── Shadow.2018.CHINESE.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv
+│   ├── Shadow.2018.CHINESE.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Shin.Godzilla.2016.2160p.UHD.Bluray.HDR10.x265.2Audia-PAGE
+│   ├── Shin.Godzilla.2016.2160p.UHD.Bluray.HDR10.x265.2Audia-PAGE.chs.ass
+│   ├── Shin.Godzilla.2016.2160p.UHD.Bluray.HDR10.x265.2Audia-PAGE.mkv
+│   ├── Shin.Godzilla.2016.2160p.UHD.Bluray.HDR10.x265.2Audia-PAGE.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Shock.Wave.2.2020.Bluray.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD
+│   ├── Shock.Wave.2.2020.Bluray.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.cht.srt
+│   ├── Shock.Wave.2.2020.Bluray.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.mkv
+│   ├── Shock.Wave.2.2020.Bluray.2160p.TrueHD7.1.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Shock.Wave.2017.UHD.BluRay.2160p.x265.10bit.HDR.DTS.2Audios-CMCT
+│   ├── Shock.Wave.2017.UHD.BluRay.2160p.x265.10bit.HDR.DTS.2Audios-CMCT.cht.srt
+│   ├── Shock.Wave.2017.UHD.BluRay.2160p.x265.10bit.HDR.DTS.2Audios-CMCT.mkv
+│   ├── Shock.Wave.2017.UHD.BluRay.2160p.x265.10bit.HDR.DTS.2Audios-CMCT.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Shutter.Island.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT
+│   ├── Shutter.Island.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT.chs.ass
+│   ├── Shutter.Island.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT.mkv
+│   ├── Shutter.Island.2010.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.5.1-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Silent.Witness.2013.2160p.HQ.WEB-DL.H265.AAC-DreamHD
+│   ├── Silent.Witness.2013.2160p.HQ.WEB-DL.H265.AAC-DreamHD.mkv
+│   ├── Silent.Witness.2013.2160p.HQ.WEB-DL.H265.AAC-DreamHD.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── Tenet.2020.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ
+│   ├── Tenet.2020.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.chs.ass
+│   ├── Tenet.2020.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.mkv
+│   ├── Tenet.2020.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.5.1-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The Godfather  Part III 1990  2160p UHD Blu-ray HEVC TrueHD 5.1-ESiR 导剪版
+│   ├── The Godfather  Part III 1990  2160p UHD Blu-ray HEVC TrueHD 5.1-ESiR 导剪版.mkv
+│   ├── The Godfather  Part III 1990  2160p UHD Blu-ray HEVC TrueHD 5.1-ESiR 导剪版.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The Godfather 1972 2160p UHD Blu-ray HEVC TrueHD 5.1.Remux
+│   ├── The Godfather 1972 2160p UHD Blu-ray HEVC TrueHD 5.1.Remux.chs.ass
+│   ├── The Godfather 1972 2160p UHD Blu-ray HEVC TrueHD 5.1.Remux.mkv
+│   ├── The Godfather 1972 2160p UHD Blu-ray HEVC TrueHD 5.1.Remux.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Attorney.2013.1080p.BluRay.DTS5.1.x265.10bit.2Audio-MOMOHD
+│   ├── The.Attorney.2013.1080p.BluRay.DTS5.1.x265.10bit.2Audio-MOMOHD.mkv
+│   ├── The.Attorney.2013.1080p.BluRay.DTS5.1.x265.10bit.2Audio-MOMOHD.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Best.in.Hell.2022.WEBRip.HEVC.10bit.AAC.Russion-OPS
+│   ├── The.Best.in.Hell.2022.WEBRip.HEVC.10bit.AAC.Russion-OPS.chs.srt
+│   ├── The.Best.in.Hell.2022.WEBRip.HEVC.10bit.AAC.Russion-OPS.mkv
+│   ├── The.Best.in.Hell.2022.WEBRip.HEVC.10bit.AAC.Russion-OPS.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── The.Boondock.Saints.1999.2160p-up.BRRip.x265.Flac-bodhmall
+│   ├── The.Boondock.Saints.1999.2160p-up.BRRip.x265.Flac-bodhmall.chs.ass
+│   ├── The.Boondock.Saints.1999.2160p-up.BRRip.x265.Flac-bodhmall.mkv
+│   ├── The.Boondock.Saints.1999.2160p-up.BRRip.x265.Flac-bodhmall.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Boy.and.the.Heron.2023.2160p.iTunes.WEB-DL.DDP.7.1.Atmos.HDR10+.H.265-DreamHD
+│   ├── The.Boy.and.the.Heron.2023.2160p.iTunes.WEB-DL.DDP.7.1.Atmos.HDR10+.H.265-DreamHD.chs.ass
+│   ├── The.Boy.and.the.Heron.2023.2160p.iTunes.WEB-DL.DDP.7.1.Atmos.HDR10+.H.265-DreamHD.mkv
+│   ├── The.Boy.and.the.Heron.2023.2160p.iTunes.WEB-DL.DDP.7.1.Atmos.HDR10+.H.265-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Butterfly.Effect.2.2006.Blu-ray.remux.AVC.DTS-HD.MA.5.1
+│   ├── The.Butterfly.Effect.2.2006.Blu-ray.remux.AVC.DTS-HD.MA.5.1.mkv
+│   ├── The.Butterfly.Effect.2.2006.Blu-ray.remux.AVC.DTS-HD.MA.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Butterfly.Effect.2004.Bluray.remux.AVC.1080i.DTS-HD.MA
+│   ├── The.Butterfly.Effect.2004.Bluray.remux.AVC.1080i.DTS-HD.MA.mkv
+│   ├── The.Butterfly.Effect.2004.Bluray.remux.AVC.1080i.DTS-HD.MA.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Dark.Knight.2008.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1
+│   ├── The.Dark.Knight.2008.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1.mkv
+│   ├── The.Dark.Knight.2008.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Dark.Knight.Rises.2012.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1
+│   ├── The.Dark.Knight.Rises.2012.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1.mkv
+│   ├── The.Dark.Knight.Rises.2012.2160p.BluRay.REMUX.HEVC.en&zh.DTS-HD.MA.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Godfather.Part.II.1974.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.5.1
+│   ├── The.Godfather.Part.II.1974.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.5.1.mkv
+│   ├── The.Godfather.Part.II.1974.2160p.BluRay.REMUX.HEVC.DTS-HD.MA.TrueHD.5.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Great.Gatsby.2013.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.5.1-SWTYBLZ
+│   ├── The.Great.Gatsby.2013.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.5.1-SWTYBLZ.chs.ass
+│   ├── The.Great.Gatsby.2013.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.5.1-SWTYBLZ.mkv
+│   ├── The.Great.Gatsby.2013.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.5.1-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Hateful.Eight.2015.1080p.BluRay.x264-SPARKS[rarbg]
+│   ├── The.Hateful.Eight.2015.1080p.BluRay.x264-SPARKS.chs.ass
+│   ├── The.Hateful.Eight.2015.1080p.BluRay.x264-SPARKS.mkv
+│   ├── The.Hateful.Eight.2015.1080p.BluRay.x264-SPARKS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Hobbit.An.Unexpected.Journey.2012.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1
+│   ├── The.Hobbit.An.Unexpected.Journey.2012.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1.mkv
+│   ├── The.Hobbit.An.Unexpected.Journey.2012.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Hobbit.The.Battle.of.the.Five.Armies.2014.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1
+│   ├── The.Hobbit.The.Battle.of.the.Five.Armies.2014.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1.mkv
+│   ├── The.Hobbit.The.Battle.of.the.Five.Armies.2014.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Hobbit.The.Desolation.of.Smaug.2013.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1
+│   ├── The.Hobbit.The.Desolation.of.Smaug.2013.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1.mkv
+│   ├── The.Hobbit.The.Desolation.of.Smaug.2013.EXTENDED.2160p.BluRay.HEVC.en&zh.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Hunt.2012.DANISH.1080p.BluRay.x264.DTS-FGT
+│   ├── The.Hunt.2012.DANISH.1080p.BluRay.x264.DTS-FGT.chs.ass
+│   ├── The.Hunt.2012.DANISH.1080p.BluRay.x264.DTS-FGT.mkv
+│   ├── The.Hunt.2012.DANISH.1080p.BluRay.x264.DTS-FGT.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Irishman.2019.HD1080P.X264.AAC.English.CHS-ENG.BDE4
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 爱尔兰人The.Irishman.2019.HD1080P.X264.AAC.English.CHS-ENG.BDE4.chs.srt
+│   ├── 爱尔兰人The.Irishman.2019.HD1080P.X264.AAC.English.CHS-ENG.BDE4.mp4
+│   └── 爱尔兰人The.Irishman.2019.HD1080P.X264.AAC.English.CHS-ENG.BDE4.nfo
+├── The.King.2017.LIMITED.1080p.BluRay.x264-GiMCHi[rarbg]
+│   ├── The.King.2017.LIMITED.1080p.BluRay.x264-GiMCHi[rarbg].chs.srt
+│   ├── The.King.2017.LIMITED.1080p.BluRay.x264-GiMCHi[rarbg].mkv
+│   ├── The.King.2017.LIMITED.1080p.BluRay.x264-GiMCHi[rarbg].nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── The.Legend.of.1900.1998.BluRay.2160p.DTS-HDMA5.1.DoVi.HDR.x265.10bit-DreamHD
+│   ├── The.Legend.of.1900.1998.BluRay.2160p.DTS-HDMA5.1.DoVi.HDR.x265.10bit-DreamHD.mkv
+│   ├── The.Legend.of.1900.1998.BluRay.2160p.DTS-HDMA5.1.DoVi.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Lives.of.Others.2006.1080p.BluRay.x264-FSiHD
+│   ├── The.Lives.of.Others.2006.1080p.BluRay.x264-FSiHD.chs.srt
+│   ├── The.Lives.of.Others.2006.1080p.BluRay.x264-FSiHD.mkv
+│   ├── The.Lives.of.Others.2006.1080p.BluRay.x264-FSiHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Lord.of.the.Rings-The.Fellowship.of.2001.EXTENDED.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD7.1-Mo Cuishle
+│   ├── The.Lord.of.the.Rings-The.Fellowship.of.2001.EXTENDED.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD7.1-Mo Cuishle.mkv
+│   ├── The.Lord.of.the.Rings-The.Fellowship.of.2001.EXTENDED.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD7.1-Mo Cuishle.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Lord.of.the.Rings-The.Return.of.the.King.2003.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD.7.1-Mo Cuishle
+│   ├── The.Lord.of.the.Rings-The.Return.of.the.King.2003.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD.7.1-Mo Cuishle.mkv
+│   ├── The.Lord.of.the.Rings-The.Return.of.the.King.2003.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD.7.1-Mo Cuishle.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Lord.of.the.Rings-The.Two.Towers.2002.EXTENDED.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD.7.1-Mo Cuishle
+│   ├── The.Lord.of.the.Rings-The.Two.Towers.2002.EXTENDED.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD.7.1-Mo Cuishle.mkv
+│   ├── The.Lord.of.the.Rings-The.Two.Towers.2002.EXTENDED.Blu-ray.Remux.2160p.HDR10.DV.Atmos.TrueHD.7.1-Mo Cuishle.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Man.Standing.Next.2020.KOREAN.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT
+│   ├── The.Man.Standing.Next.2020.KOREAN.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT.chs.ass
+│   ├── The.Man.Standing.Next.2020.KOREAN.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT.mkv
+│   ├── The.Man.Standing.Next.2020.KOREAN.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── The.Matrix.1999.BluRay.2160p.x265.10bit.HDR.4Audio.mUHD-FRDS
+│   ├── The.Matrix.1999.BluRay.2160p.x265.10bit.HDR.4Audio.mUHD-FRDS.mkv
+│   ├── The.Matrix.1999.BluRay.2160p.x265.10bit.HDR.4Audio.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Matrix.Reloaded.2003.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS
+│   ├── The.Matrix.Reloaded.2003.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS.mkv
+│   ├── The.Matrix.Reloaded.2003.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Matrix.Resurrections.2021.2160p.HDR.UHD.BluRay.TrueHD.7.1.Atmos.2Audio.x265-10bit-ENTHD
+│   ├── The.Matrix.Resurrections.2021.2160p.HDR.UHD.BluRay.TrueHD.7.1.Atmos.2Audio.x265-10bit-ENTHD.mkv
+│   ├── The.Matrix.Resurrections.2021.2160p.HDR.UHD.BluRay.TrueHD.7.1.Atmos.2Audio.x265-10bit-ENTHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Matrix.Revolutions.2003.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS
+│   ├── The.Matrix.Revolutions.2003.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS.mkv
+│   ├── The.Matrix.Revolutions.2003.BluRay.2160p.x265.10bit.HDR.3Audio.mUHD-FRDS.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Phantom.of.the.Opera.2004.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.LPCM.5.1-SWTYBLZ
+│   ├── The.Phantom.of.the.Opera.2004.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.LPCM.5.1-SWTYBLZ.chs.ass
+│   ├── The.Phantom.of.the.Opera.2004.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.LPCM.5.1-SWTYBLZ.mkv
+│   ├── The.Phantom.of.the.Opera.2004.2160p.BluRay.x265.10bit.HDR.DTS-HD.MA.LPCM.5.1-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Promised.Land.2023.2160p.UHD.BluRay.DTS-HD.MA.5.1-GPTHD
+│   ├── The.Promised.Land.2023.2160p.UHD.BluRay.DTS-HD.MA.5.1-GPTHD.mkv
+│   ├── The.Promised.Land.2023.2160p.UHD.BluRay.DTS-HD.MA.5.1-GPTHD.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Spy.Gone.North.2018.KOREAN.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1
+│   ├── The.Spy.Gone.North.2018.KOREAN.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1.mkv
+│   ├── The.Spy.Gone.North.2018.KOREAN.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.webp
+├── The.Storm.Riders.1998.1080p.BluRay.x264-aBD
+│   ├── RARBG.txt
+│   ├── The.Storm.Riders.1998.1080p.BluRay.x264-aBD.chs.srt
+│   ├── The.Storm.Riders.1998.1080p.BluRay.x264-aBD.mkv
+│   ├── The.Storm.Riders.1998.1080p.BluRay.x264-aBD.nfo
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── The.Wandering.Earth.2.2023.IMAX.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-CTRLHD
+│   ├── The.Wandering.Earth.2.2023.IMAX.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-CTRLHD.mkv
+│   ├── The.Wandering.Earth.2.2023.IMAX.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-CTRLHD.nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Wandering.Earth.2019.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-CTRLHD
+│   ├── The.Wandering.Earth.2019.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-CTRLHD.mkv
+│   ├── The.Wandering.Earth.2019.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-CTRLHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── The.Wolf.of.Wall.Street.2013.2160p.BluRay.DTS-HD.MA.5.1.DoVi.HDR10.x265-DreamHD
+│   ├── The.Wolf.of.Wall.Street.2013.2160p.BluRay.DTS-HD.MA.5.1.DoVi.HDR10.x265-DreamHD.chs.ass
+│   ├── The.Wolf.of.Wall.Street.2013.2160p.BluRay.DTS-HD.MA.5.1.DoVi.HDR10.x265-DreamHD.mkv
+│   ├── The.Wolf.of.Wall.Street.2013.2160p.BluRay.DTS-HD.MA.5.1.DoVi.HDR10.x265-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Top.Gun.1986.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ
+│   ├── Top.Gun.1986.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.chs.ass
+│   ├── Top.Gun.1986.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv
+│   ├── Top.Gun.1986.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Top.Gun.Maverick.2022.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ
+│   ├── Top.Gun.Maverick.2022.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.chs.ass
+│   ├── Top.Gun.Maverick.2022.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv
+│   ├── Top.Gun.Maverick.2022.IMAX.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Train.to.Busan.2.Peninsula.2020.KOREAN.2160p.BluRay.HEVC.DV.ko&zh.TrueHD7.1
+│   ├── Train.to.Busan.2.Peninsula.2020.KOREAN.2160p.BluRay.HEVC.DV.ko&zh.TrueHD7.1.chs.srt
+│   ├── Train.to.Busan.2.Peninsula.2020.KOREAN.2160p.BluRay.HEVC.DV.ko&zh.TrueHD7.1.mkv
+│   ├── Train.to.Busan.2.Peninsula.2020.KOREAN.2160p.BluRay.HEVC.DV.ko&zh.TrueHD7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Train.to.Busan.2016.KOREAN.2160p.BluRay.DV.en&zh.HEVC.TrueHD.7.1
+│   ├── Train.to.Busan.2016.KOREAN.2160p.BluRay.DV.en&zh.HEVC.TrueHD.7.1.chs.ass
+│   ├── Train.to.Busan.2016.KOREAN.2160p.BluRay.DV.en&zh.HEVC.TrueHD.7.1.mkv
+│   ├── Train.to.Busan.2016.KOREAN.2160p.BluRay.DV.en&zh.HEVC.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Transformers.2007.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1
+│   ├── Transformers.2007.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.mkv
+│   ├── Transformers.2007.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Transformers.Age.of.Extinction.2014.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7
+│   ├── Transformers.Age.of.Extinction.2014.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.mkv
+│   ├── Transformers.Age.of.Extinction.2014.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Transformers.Dark.Of.The.Moon.2011.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1
+│   ├── Transformers.Dark.Of.The.Moon.2011.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.mkv
+│   ├── Transformers.Dark.Of.The.Moon.2011.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Transformers.Revenge.Of.The.Fallen.2009.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1
+│   ├── Transformers.Revenge.Of.The.Fallen.2009.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.mkv
+│   ├── Transformers.Revenge.Of.The.Fallen.2009.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Transformers.The.Last.Knight.2017.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1
+│   ├── Transformers.The.Last.Knight.2017.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.mkv
+│   ├── Transformers.The.Last.Knight.2017.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── True.Grit.2010.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR
+│   ├── True.Grit.2010.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.chs.srt
+│   ├── True.Grit.2010.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv
+│   ├── True.Grit.2010.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Tschick.2016.1080p.BluRay.x264-NODLABS[rarbg]
+│   ├── Tschick.2016.1080p.BluRay.x264-NODLABS.chs.ass
+│   ├── Tschick.2016.1080p.BluRay.x264-NODLABS.mkv
+│   ├── Tschick.2016.1080p.BluRay.x264-NODLABS.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   └── poster.jpg
+├── V.for.Vendetta.2005.2160p.UHD.BluRay.x265-VFORV
+│   ├── V.for.Vendetta.2005.2160p.UHD.BluRay.x265-VFORV.chs.ass
+│   ├── V.for.Vendetta.2005.2160p.UHD.BluRay.x265-VFORV.mkv
+│   ├── V.for.Vendetta.2005.2160p.UHD.BluRay.x265-VFORV.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Vampire Hunter D Bloodlust.2000.1080p.BluRay.x264.AAC.CHS-LxyLab
+│   ├── Vampire Hunter D Bloodlust.2000.1080p.BluRay.x264.AAC.CHS-LxyLab.mkv
+│   ├── Vampire Hunter D Bloodlust.2000.1080p.BluRay.x264.AAC.CHS-LxyLab.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Venom.2018.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos
+│   ├── Venom.2018.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.chs.ass
+│   ├── Venom.2018.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.mkv
+│   ├── Venom.2018.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Venom.Let.There.Be.Carnage.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos
+│   ├── Venom.Let.There.Be.Carnage.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.chs.ass
+│   ├── Venom.Let.There.Be.Carnage.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.mkv
+│   ├── Venom.Let.There.Be.Carnage.2021.2160p.BluRay.REMUX.HEVC.DV.TrueHD.7.1.Atmos.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Violet.Evergarden.The.Movie.2020.REPACK.DV.2160p.UHD.BluRay.x265-SURCODE
+│   ├── Violet.Evergarden.The.Movie.2020.REPACK.DV.2160p.UHD.BluRay.x265-SURCODE.chs.ass
+│   ├── Violet.Evergarden.The.Movie.2020.REPACK.DV.2160p.UHD.BluRay.x265-SURCODE.mkv
+│   ├── Violet.Evergarden.The.Movie.2020.REPACK.DV.2160p.UHD.BluRay.x265-SURCODE.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Watchmen.The.Ultimate.Cut.2009.V2.Bluray.2160p.TrueHD5.1.HDR.x265.10bit-DreamHD
+│   ├── Watchmen.The.Ultimate.Cut.2009.V2.Bluray.2160p.TrueHD5.1.HDR.x265.10bit-DreamHD.mkv
+│   ├── Watchmen.The.Ultimate.Cut.2009.V2.Bluray.2160p.TrueHD5.1.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Whiplash.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ
+│   ├── Whiplash.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.chs.ass
+│   ├── Whiplash.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv
+│   ├── Whiplash.2014.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Wolfwalkers.2020.HDR.2160p.WEB.h265-KOGi
+│   ├── Wolfwalkers.2020.HDR.2160p.WEB.h265-KOGi.mkv
+│   ├── Wolfwalkers.2020.HDR.2160p.WEB.h265-KOGi.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── World.War.Z.2013.Theatrical.Cut.Bluray.2160p.DTS-HDMA7.1.DoVi.HDR.x265.10bit-DreamHD
+│   ├── World.War.Z.2013.Theatrical.Cut.Bluray.2160p.DTS-HDMA7.1.DoVi.HDR.x265.10bit-DreamHD.mkv
+│   ├── World.War.Z.2013.Theatrical.Cut.Bluray.2160p.DTS-HDMA7.1.DoVi.HDR.x265.10bit-DreamHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Young.Woman.and.the.Sea.2024.Hybrid.2160p.MULTI.WEB-DL.DV.HDR.H265-AOC
+│   ├── Young.Woman.and.the.Sea.2024.Hybrid.2160p.MULTI.WEB-DL.DV.HDR.H265-AOC.chs.ass
+│   ├── Young.Woman.and.the.Sea.2024.Hybrid.2160p.MULTI.WEB-DL.DV.HDR.H265-AOC.mkv
+│   ├── Young.Woman.and.the.Sea.2024.Hybrid.2160p.MULTI.WEB-DL.DV.HDR.H265-AOC.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── Zack.Snyders.Justice.League.2021.DISC1.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ
+│   ├── Zack.Snyders.Justice.League.2021.DISC1.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv
+│   ├── Zack.Snyders.Justice.League.2021.DISC1.2160p.UHD.BluRay.x265.10bit.HDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Airota&VCB-Studio] Chuunibyou demo Koi ga Shitai! -Take On Me
+│   ├── [Airota&VCB-Studio] Chuunibyou demo Koi ga Shitai! -Take On Me- [Ma10p_1080p][x265_flac].chs.ass
+│   ├── [Airota&VCB-Studio] Chuunibyou demo Koi ga Shitai! -Take On Me- [Ma10p_1080p][x265_flac].mkv
+│   ├── [Airota&VCB-Studio] Chuunibyou demo Koi ga Shitai! -Take On Me- [Ma10p_1080p][x265_flac].nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Airota&VCB-Studio] Fate stay night Heaven's Feel I - presage flower [Ma10p_1080p]
+│   ├── [Airota&VCB-Studio] Fate stay night Heaven's Feel I - presage flower [Ma10p_1080p].mkv
+│   ├── [Airota&VCB-Studio] Fate stay night Heaven's Feel I - presage flower [Ma10p_1080p].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── fanart1.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Airota&VCB-Studio] Fate stay night Heaven's Feel II - lost butterfly [Ma10p_1080p]
+│   ├── [Airota&VCB-Studio] Fate stay night Heaven's Feel II - lost butterfly [Ma10p_1080p].mkv
+│   ├── [Airota&VCB-Studio] Fate stay night Heaven's Feel II - lost butterfly [Ma10p_1080p].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Airota&VCB-Studio] Fate ⁄ stay night Heaven's Feel III - spring song [Ma10p_1080p]
+│   ├── [Airota&VCB-Studio] Fate ⁄ stay night Heaven's Feel III - spring song [Ma10p_1080p].mkv
+│   ├── [Airota&VCB-Studio] Fate ⁄ stay night Heaven's Feel III - spring song [Ma10p_1080p].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Airota&VCB-Studio] Gekijouban Chuunibyou demo Koi ga Shitai!
+│   ├── [Airota&VCB-Studio] Gekijouban Chuunibyou demo Koi ga Shitai! [Hi10p_1080p][x264_flac].chs.ass
+│   ├── [Airota&VCB-Studio] Gekijouban Chuunibyou demo Koi ga Shitai! [Hi10p_1080p][x264_flac].mkv
+│   ├── [Airota&VCB-Studio] Gekijouban Chuunibyou demo Koi ga Shitai! [Hi10p_1080p][x264_flac].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [BeanSub&VCB-Studio] Gekijouban Jujutsu Kaisen 0 [Ma10p_1080p][x265_flac]
+│   ├── [BeanSub&VCB-Studio] Gekijouban Jujutsu Kaisen 0 [Ma10p_1080p][x265_flac].chs.ass
+│   ├── [BeanSub&VCB-Studio] Gekijouban Jujutsu Kaisen 0 [Ma10p_1080p][x265_flac].mkv
+│   ├── [BeanSub&VCB-Studio] Gekijouban Jujutsu Kaisen 0 [Ma10p_1080p][x265_flac].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Cowboy_Bebop][FILM][2001.09.01][BDRIP][1080P]
+│   ├── [Cowboy_Bebop][FILM][2001.09.01][BDRIP][1080P].chs.ass
+│   ├── [Cowboy_Bebop][FILM][2001.09.01][BDRIP][1080P].mp4
+│   ├── [Cowboy_Bebop][FILM][2001.09.01][BDRIP][1080P].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [DMG&VCB-Studio] Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai [Ma10p_1080p]
+│   ├── [DMG&VCB-Studio] Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai [Ma10p_1080p][x265_flac].chs.ass
+│   ├── [DMG&VCB-Studio] Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai [Ma10p_1080p][x265_flac].mkv
+│   ├── [DMG&VCB-Studio] Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai [Ma10p_1080p][x265_flac].nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [DMG] 劇場版 冴えない彼女の育てかた Fine [BDRip]
+│   ├── [DMG] 劇場版 冴えない彼女の育てかた Fine [BDRip][HEVC_FLAC_AAC_PGS][1080P_Ma10P](514B5869).chs.ass
+│   ├── [DMG] 劇場版 冴えない彼女の育てかた Fine [BDRip][HEVC_FLAC_AAC_PGS][1080P_Ma10P](514B5869).mkv
+│   ├── [DMG] 劇場版 冴えない彼女の育てかた Fine [BDRip][HEVC_FLAC_AAC_PGS][1080P_Ma10P](514B5869).nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Haruhana] Natsu e no Tunnel, Sayonara no Deguchi [BDRip][HEVC-10bit 1080p]
+│   ├── [Haruhana] Natsu e no Tunnel, Sayonara no Deguchi [BDRip][HEVC-10bit 1080p].mkv
+│   ├── [Haruhana] Natsu e no Tunnel, Sayonara no Deguchi [BDRip][HEVC-10bit 1080p].nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Nekomoe kissaten&VCB-Studio] Suzume no Tojimari [Ma10p_2160p_HDR10][x265_flac]
+│   ├── [Nekomoe kissaten&VCB-Studio] Suzume no Tojimari [Ma10p_2160p_HDR10][x265_flac].mkv
+│   ├── [Nekomoe kissaten&VCB-Studio] Suzume no Tojimari [Ma10p_2160p_HDR10][x265_flac].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 BANDIT FLOWER [hevc_10bit_aac][1080P][BDrip](167095E5)
+│   ├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 BANDIT FLOWER [hevc_10bit_aac][1080P][BDrip](167095E5).chs.ass
+│   ├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 BANDIT FLOWER [hevc_10bit_aac][1080P][BDrip](167095E5).mkv
+│   ├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 BANDIT FLOWER [hevc_10bit_aac][1080P][BDrip](167095E5).nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 DECEMBER SKY [hevc_10bit_aac][1080P][BDrip](55DA2B00)
+│   ├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 DECEMBER SKY [hevc_10bit_aac][1080P][BDrip](55DA2B00).chs.ass
+│   ├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 DECEMBER SKY [hevc_10bit_aac][1080P][BDrip](55DA2B00).mkv
+│   ├── [POPGO&TXXZ] 机动战士高达 雷霆宙域 DECEMBER SKY [hevc_10bit_aac][1080P][BDrip](55DA2B00).nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [POPGO]機動戦士ガンダム 閃光のハサウェイ[HEVC][2160P][BDrip]
+│   ├── [POPGO]機動戦士ガンダム 閃光のハサウェイ[HEVC][2160P][BDrip].mkv
+│   ├── [POPGO]機動戦士ガンダム 閃光のハサウェイ[HEVC][2160P][BDrip].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [ReinForce] Gekijouban Steins;Gate ~Fuka Ryouiki no Deja vu~ (BDRip 1920x1080 x264 FLAC)
+│   ├── [ReinForce] Gekijouban Steins;Gate ~Fuka Ryouiki no Deja vu~ (BDRip 1920x1080 x264 FLAC).chs.ass
+│   ├── [ReinForce] Gekijouban Steins;Gate ~Fuka Ryouiki no Deja vu~ (BDRip 1920x1080 x264 FLAC).mkv
+│   ├── [ReinForce] Gekijouban Steins;Gate ~Fuka Ryouiki no Deja vu~ (BDRip 1920x1080 x264 FLAC).nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [SAIO-Raws] Redline [BD 1864x1048 HEVC-10bit OPUSx2 ASSx2]
+│   ├── [SAIO-Raws] Redline [BD 1864x1048 HEVC-10bit OPUSx2 ASSx2].mkv
+│   ├── [SAIO-Raws] Redline [BD 1864x1048 HEVC-10bit OPUSx2 ASSx2].nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── clearlogo.svg
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [SakuratoSub] Gekijouban Made in Abyss꞉ Fukaki Tamashii no Reimei [HEVC][FLAC][2160p]
+│   ├── [SakuratoSub] Gekijouban Made in Abyss꞉ Fukaki Tamashii no Reimei [HEVC][FLAC][2160p].mkv
+│   ├── [SakuratoSub] Gekijouban Made in Abyss꞉ Fukaki Tamashii no Reimei [HEVC][FLAC][2160p].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [SumiSora&CASO][Genocidal_Organ][BDRIP][HEVC]
+│   ├── [SumiSora&CASO][Genocidal_Organ][Main_Movie][BDRIP][HEVC_ALSx2].chs.ass
+│   ├── [SumiSora&CASO][Genocidal_Organ][Main_Movie][BDRIP][HEVC_ALSx2].mp4
+│   ├── [SumiSora&CASO][Genocidal_Organ][Main_Movie][BDRIP][HEVC_ALSx2].nfo
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [SumiSora&CASO][Harmony][BDRIP][HEVC]
+│   ├── [SumiSora&CASO][Harmony][Main_Movie][BDRIP][HEVC_ALSx2].chs.ass
+│   ├── [SumiSora&CASO][Harmony][Main_Movie][BDRIP][HEVC_ALSx2].mp4
+│   ├── [SumiSora&CASO][Harmony][Main_Movie][BDRIP][HEVC_ALSx2].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [SumiSora&CASO][The_Empire_of_Corpses][BDRIP][HEVC]
+│   ├── [SumiSora&CASO][The_Empire_of_Corpses][Main_Movie][HEVC_ALSx2].chs.ass
+│   ├── [SumiSora&CASO][The_Empire_of_Corpses][Main_Movie][HEVC_ALSx2].mp4
+│   ├── [SumiSora&CASO][The_Empire_of_Corpses][Main_Movie][HEVC_ALSx2].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [UHA-WINGS][Kono Subarashii Sekai ni Shukufuku wo! Movie][x264 1080P]
+│   ├── [UHA-WINGS][Kono Subarashii Sekai ni Shukufuku wo! Movie][x264 1080P].chs.ass
+│   ├── [UHA-WINGS][Kono Subarashii Sekai ni Shukufuku wo! Movie][x264 1080P].mkv
+│   ├── [UHA-WINGS][Kono Subarashii Sekai ni Shukufuku wo! Movie][x264 1080P].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac]
+│   ├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].chs.ass
+│   ├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].mkv
+│   ├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [01(Fushisha no Ou)][Ma10p_1080p][x265_flac].nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [02(Shikkoku no Senshi)][Ma10p_1080p][x265_flac]
+│   ├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [02(Shikkoku no Senshi)][Ma10p_1080p][x265_flac].chs.ass
+│   ├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [02(Shikkoku no Senshi)][Ma10p_1080p][x265_flac].mkv
+│   ├── [VCB-Studio] Gekijouban Soushuuhen OVERLORD [02(Shikkoku no Senshi)][Ma10p_1080p][x265_flac].nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [VCB-Studio] Paprika [Ma10p_1080p][x265_flac]
+│   ├── [VCB-Studio] Paprika [Ma10p_1080p][x265_flac].chs.srt
+│   ├── [VCB-Studio] Paprika [Ma10p_1080p][x265_flac].mkv
+│   ├── [VCB-Studio] Paprika [Ma10p_1080p][x265_flac].nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [VCB-Studio] Sidonia no Kishi Ai Tsumugu Hoshi [Ma10p_1080p]
+│   ├── [VCB-Studio] Sidonia no Kishi Ai Tsumugu Hoshi [Ma10p_1080p][x265_flac].chs.ass
+│   ├── [VCB-Studio] Sidonia no Kishi Ai Tsumugu Hoshi [Ma10p_1080p][x265_flac].mkv
+│   ├── [VCB-Studio] Sidonia no Kishi Ai Tsumugu Hoshi [Ma10p_1080p][x265_flac].nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── [Violet Evergarden Side Story][Movie][BDRip 2160p HEVC-10bit FLAC]
+│   ├── [Violet Evergarden Side Story][Movie][BDRip 2160p HEVC-10bit FLAC].chs.ass
+│   ├── [Violet Evergarden Side Story][Movie][BDRip 2160p HEVC-10bit FLAC].mkv
+│   ├── [Violet Evergarden Side Story][Movie][BDRip 2160p HEVC-10bit FLAC].nfo
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── 一步之遥.Gone.With.The.Bullets.2014.4K.WEB-DL.H265.AAC-MOMOWEB
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── 一步之遥.Gone.With.The.Bullets.2014.4K.WEB-DL.H265.AAC-MOMOWEB.mp4
+│   └── 一步之遥.Gone.With.The.Bullets.2014.4K.WEB-DL.H265.AAC-MOMOWEB.nfo
+├── 乱 (1985) [BD1080P.X264.AAC-YYDS]
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 乱 (1985) [BD1080P.X264.AAC-YYDS].mp4
+│   └── 乱 (1985) [BD1080P.X264.AAC-YYDS].nfo
+├── 剑雨.2010
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 剑雨.2010.mkv
+│   └── 剑雨.2010.nfo
+├── 君の名は 2160P REMUX
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 君の名は。2160P REMUX.mkv
+│   └── 君の名は。2160P REMUX.nfo
+├── 哥斯拉-1.0[HDR+杜比视界双版本][中文字幕].Godzilla.Minus.One.2023.2160p.UHD.BluRay.x265.10bit.DV.TrueHD.7.1.Atmos-SONY
+│   ├── Godzilla.Minus.One.2023.2160p.UHD.BluRay.x265.10bit.DV.TrueHD.7.1.Atmos-SONYHD.mkv
+│   ├── Godzilla.Minus.One.2023.2160p.UHD.BluRay.x265.10bit.DV.TrueHD.7.1.Atmos-SONYHD.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── 声之形.2016
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 声之形.mkv
+│   └── 声之形.nfo
+├── 大鱼Big.Fish.2003.1080p.DTS.BluRay.3xRus.Eng.HDCLUB
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 大鱼Big.Fish.2003.1080p.DTS.BluRay.3xRus.Eng.HDCLUB.mkv
+│   └── 大鱼Big.Fish.2003.1080p.DTS.BluRay.3xRus.Eng.HDCLUB.nfo
+├── 天气之子 2160p DTSHD-MA
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 天气之子 2160p DTSHD-MA.mkv
+│   └── 天气之子 2160p DTSHD-MA.nfo
+├── 我们仍未知道那天所看见的花的名字 剧场版 蓝光原盘REMUX
+│   ├── Anohana the Movie The Flower We Saw That Day.mkv
+│   ├── Anohana the Movie The Flower We Saw That Day.nfo
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   └── poster.jpg
+├── 狗阵.Black.Dog.2024.2160p.WEB-DL.DDP2.0.H265.HDR.DV-ParkHD
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── 狗阵.Black.Dog.2024.2160p.WEB-DL.DDP2.0.H265.HDR.DV-ParkHD.mkv
+│   └── 狗阵.Black.Dog.2024.2160p.WEB-DL.DDP2.0.H265.HDR.DV-ParkHD.nfo
+├── 秒速5厘米 (2007) [1080P][BDRip][HEVC-10bit][FLAC][MKV]
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 秒速5厘米 (2007) [1080P][BDRip][HEVC-10bit][FLAC][MKV].mkv
+│   └── 秒速5厘米 (2007) [1080P][BDRip][HEVC-10bit][FLAC][MKV].nfo
+├── 言叶之庭 [1080P][BDRip][HEVC-10bit][FLAC][MKV]
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 言叶之庭 [1080P][BDRip][HEVC-10bit][FLAC][MKV].mkv
+│   └── 言叶之庭 [1080P][BDRip][HEVC-10bit][FLAC][MKV].nfo
+├── 让子弹飞.Let.the.Bullets.Fly.v2.2010.BluRay.1080p.DTS.HDMA7.1.x265.10bit-DreamHD
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 让子弹飞.Let.the.Bullets.Fly.v2.2010.BluRay.1080p.DTS.HDMA7.1.x265.10bit-DreamHD.mkv
+│   └── 让子弹飞.Let.the.Bullets.Fly.v2.2010.BluRay.1080p.DTS.HDMA7.1.x265.10bit-DreamHD.nfo
+├── 追逐繁星的孩子 星を追う子ども (2011)
+│   ├── banner.jpg
+│   ├── clearart.png
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── 追逐繁星的孩子 星を追う子ども (2011).mkv
+│   └── 追逐繁星的孩子 星を追う子ども (2011).nfo
+└── 邪不压正.Hidden.Man.2018.Bluray.1080p.x265.10bit.TrueHD.5.1-MOMOHD
+    ├── banner.jpg
+    ├── clearlogo.png
+    ├── fanart.jpg
+    ├── landscape.jpg
+    ├── poster.jpg
+    ├── 邪不压正.Hidden.Man.2018.Bluray.1080p.x265.10bit.TrueHD.5.1-MOMOHD.mkv
+    └── 邪不压正.Hidden.Man.2018.Bluray.1080p.x265.10bit.TrueHD.5.1-MOMOHD.nfo
+
+248 directories, 1965 files
