@@ -13,20 +13,10 @@ def listDirHtml(pid):
     lis = []
     for file in api.listAllFiles(pid):
         if file["type"] == 0:
-            lis.append(
-                '<li><a href="{}">{}</a></li>'.format(
-                    file["filename"], file["filename"]
-                )
-            )
+            lis.append('<li><a href="{}">{}</a></li>'.format(file["filename"], file["filename"]))
         else:
-            lis.append(
-                '<li><a href="{}/">{}/</a></li>'.format(
-                    file["filename"], file["filename"]
-                )
-            )
-    return """<html lang="en"><head><meta charset="utf-8"><body><hr><ul>{}</ul><hr></body></html>""".format(
-        "\n".join(lis)
-    )
+            lis.append('<li><a href="{}/">{}/</a></li>'.format(file["filename"], file["filename"]))
+    return """<html lang="en"><head><meta charset="utf-8"><body><hr><ul>{}</ul><hr></body></html>""".format("\n".join(lis))
 
 
 @app.get("/{path:path}")
@@ -50,8 +40,7 @@ async def read_path(path: str):
 
 
 def get_content_type(file_name):
-    content_type, _ = mimetypes.guess_type(file_name)
-    print(f"{file_name}:{content_type}")
+    content_type, _ = mimetypes.guess_type("file" + os.path.splitext(file_name)[1])
     return content_type or "application/octet-stream"
 
 
@@ -79,4 +68,3 @@ async def process_url(path: str):
 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
