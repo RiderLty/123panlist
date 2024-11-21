@@ -1,9 +1,16 @@
+from io import BytesIO
 from fastapi.responses import RedirectResponse
 import requests
 import uvicorn
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Request, Response
 from api123 import *
 import mimetypes
+import hashlib
+
+def md5_bytes(input_bytes):
+    md5_hash = hashlib.md5()
+    md5_hash.update(input_bytes)
+    return md5_hash.hexdigest()
 
 app = FastAPI()
 api = pan123Api()
@@ -65,6 +72,21 @@ async def process_url(path: str):
                 },
             )
 
-
+@app.post("/{path:path}")
+async def upload_bytes(path: str,request: Request):
+    dataBytes = await request.body()
+    if len(path) == 0:
+        return Response(
+            content=listDirHtml(0),
+            headers={"content-type": "text/html; charset=utf-8"},
+        )
+    else:
+        parent,filename = os.path.split(path)
+        pid = api.getPathId("/" + parent)# 应该先判断下存在不，然后创建文件夹
+        api.uploadFile(BytesIO(dataBytes),filename,pid,md5_bytes(dataBytes),len(dataBytes))
+ 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
+
+# file = open(r"MOV_2112.mp4",'rb').read()
+# api.uploadFile(open(r"MOV_2112.mp4",'rb'),"MOV_2112.mp4",0,md5_bytes(file),len(file))

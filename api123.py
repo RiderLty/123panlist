@@ -1,5 +1,6 @@
 from io import BufferedReader
 import os
+import time
 import requests
 import math
 import shlex
@@ -127,6 +128,7 @@ class pan123Api:
 
     def getFileDetail(self, fileID):
         if fileID in self.idCache:
+            self.idCache[fileID] = self.idCache[fileID]
             return self.idCache[fileID]
         result = self.get(url="/api/v1/file/detail", data={"fileID": fileID}).json()
         assert result["code"] == 0, result["message"]
@@ -150,7 +152,18 @@ class pan123Api:
 
     def listAllFiles(self, parentFileId):
         if parentFileId in self.treeCache:
-            return [self.idCache[x] for x in self.treeCache[parentFileId]]
+            self.treeCache[parentFileId] = self.treeCache[parentFileId] 
+            res = []
+            allCached = True
+            for x in self.treeCache[parentFileId]:
+                if x in self.idCache:
+                    self.idCache = self.idCache
+                    res.append(self.idCache[x])
+                else:
+                    allCached = False
+                    break
+            if allCached:
+                return res
         lastFileId = None
         files = []
         while lastFileId != -1:
@@ -200,14 +213,38 @@ class pan123Api:
             },
         ).json()
 
+    def uploadComplete(self, preuploadID):
+        return self.post(
+            url="/upload/v1/file/upload_complete",
+            data={
+                "preuploadID": preuploadID,
+            },
+        ).json()
+
+
     def uploadGetUploadURL(self, preuploadID, sliceNo):
         return self.post(
             url="/upload/v1/file/get_upload_url",
             data={"preuploadID": preuploadID, "sliceNo": sliceNo},
         ).json()
 
+
+    def listUploadParts(self, preuploadID):
+        return self.post(
+            url="/upload/v1/file/list_upload_parts",
+            data={"preuploadID": preuploadID},
+        ).json()
+
+
     def uploadListUploadParts(self, preuploadID):
         return self.post(url="/upload/v1/file/list_upload_parts", data={"preuploadID": preuploadID}).json()
+
+    def uploadAsyncResult(self, preuploadID):
+        return self.post(url="/upload/v1/file/upload_async_result", data={"preuploadID": preuploadID}).json()
+
+
+
+
 
     def uploadFile(self, fileLike: BufferedReader, filename, parentId, md5, size):
         """
@@ -221,10 +258,8 @@ class pan123Api:
         if create["data"]["reuse"] == True:
             print("秒传成功")
             return
-
         else:
             print("秒传失败")
-            return
             sliceProgress = {}
             sliceSize = create["data"]["sliceSize"]
             preuploadID = create["data"]["preuploadID"]
@@ -240,20 +275,26 @@ class pan123Api:
             for part in preloaded["data"]["parts"]:
                 sliceProgress[part["partNumber"]] = True
                 print(f'分片{part["partNumber"]}已上传,大小{part["size"] // 1048576}MB,MD5:{part["etag"]}')
-
-        for keyIndex in sliceProgress.keys():
-            if sliceProgress[keyIndex] == True:
-                print(f"分片{keyIndex}已跳过")
-                continue
-            url = self.uploadGetUploadURL(preuploadID=preuploadID, sliceNo=keyIndex)
-            presignedURL = url["data"]["presignedURL"]
-            fileLike.seek(sliceSize * (keyIndex - 1))
-            bytes = fileLike.read(sliceSize)
-            print(f"分片{keyIndex}，读取了{len(bytes)}字节，上传中")
-            print(presignedURL)
-            requests.put(url=presignedURL, data=bytes)
-            print("上传完成")
-        # self.uploadCreate(0, "random.img", "32d4846a4f88a350efe79481ffce29cd", 1073741824)
+            for keyIndex in sliceProgress.keys():
+                if sliceProgress[keyIndex] == True:
+                    print(f"分片{keyIndex}已跳过")
+                    continue
+                url = self.uploadGetUploadURL(preuploadID=preuploadID, sliceNo=keyIndex)
+                presignedURL = url["data"]["presignedURL"]
+                fileLike.seek(sliceSize * (keyIndex - 1))
+                bytes = fileLike.read(sliceSize)
+                print(f"分片{keyIndex}，读取了{len(bytes)}字节，上传中")
+                print(presignedURL)
+                requests.put(url=presignedURL, data=bytes)
+                print("上传完成")
+            res = self.listUploadParts(preuploadID)
+            print(res)
+            res = self.uploadAsyncResult(preuploadID)
+            print(res)
+            res = self.uploadComplete(preuploadID)
+            print(res)
+            print("全部完成")        
+            # self.uploadCreate(0, "random.img", "32d4846a4f88a350efe79481ffce29cd", 1073741824)
 
     # def put(self):
     #     requests.put()
@@ -280,6 +321,7 @@ class pan123Api:
 
     def get302url(self, path):
         if path in self.urlCache:
+            self.urlCache[path] = self.urlCache[path]
             return self.urlCache[path]
         req = requests.get(
             f"{self.webdav_host}{path}",
