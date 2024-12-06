@@ -135,9 +135,6 @@ class pan123Api:
         self.idCache[fileID] = result["data"]
         return result["data"]
 
-    def mkdir(self, name, parentID):
-        return self.post(url="/upload/v1/file/mkdir", data={"name": name, "parentID": parentID}).json()
-
     def listFiles(self, parentFileId, limit=100, searchData=None, searchMode=None, lastFileId=None):
         return self.get(
             url="/api/v2/file/list",
@@ -168,12 +165,16 @@ class pan123Api:
         files = []
         while lastFileId != -1:
             res = self.listFiles(parentFileId=parentFileId, limit=100, lastFileId=lastFileId)
-            assert res["code"] == 0, res["message"]
-            lastFileId = res["data"]["lastFileId"]
-            for file in res["data"]["fileList"]:
-                if file["trashed"] == 0:
-                    files.append(file)
-                    self.idCache[file["fileId"]] = file  # 缓存
+            if res["code"] == 0:
+                lastFileId = res["data"]["lastFileId"]
+                for file in res["data"]["fileList"]:
+                    if file["trashed"] == 0:
+                        files.append(file)
+                        self.idCache[file["fileId"]] = file  # 缓存
+            else:
+                print(res["message"],"等待1s后重试")
+                time.sleep(1)
+            
 
         self.treeCache[parentFileId] = [x["fileId"] for x in files]
         return files
@@ -202,122 +203,6 @@ class pan123Api:
             assert flag == True, f"未找到文件夹:{part}"
         return parentId
 
-    def uploadCreate(self, parentFileID, filename, etag, size):
-        return self.post(
-            url="/upload/v1/file/create",
-            data={
-                "parentFileID": parentFileID,
-                "filename": filename,
-                "etag": etag,
-                "size": size,
-            },
-        ).json()
-
-    def uploadComplete(self, preuploadID):
-        return self.post(
-            url="/upload/v1/file/upload_complete",
-            data={
-                "preuploadID": preuploadID,
-            },
-        ).json()
-
-
-    def uploadGetUploadURL(self, preuploadID, sliceNo):
-        return self.post(
-            url="/upload/v1/file/get_upload_url",
-            data={"preuploadID": preuploadID, "sliceNo": sliceNo},
-        ).json()
-
-
-    def listUploadParts(self, preuploadID):
-        return self.post(
-            url="/upload/v1/file/list_upload_parts",
-            data={"preuploadID": preuploadID},
-        ).json()
-
-
-    def uploadListUploadParts(self, preuploadID):
-        return self.post(url="/upload/v1/file/list_upload_parts", data={"preuploadID": preuploadID}).json()
-
-    def uploadAsyncResult(self, preuploadID):
-        return self.post(url="/upload/v1/file/upload_async_result", data={"preuploadID": preuploadID}).json()
-
-
-
-
-
-    def uploadFile(self, fileLike: BufferedReader, filename, parentId, md5, size):
-        """
-        fileLike  rb 可read seek 的对象
-        remotePath 远程绝对路径 /开头
-        路径必定已存在
-        md5  文件总长度
-        """
-        create = self.uploadCreate(parentId, filename, md5, size)
-        assert create["code"] == 0, create["message"]
-        if create["data"]["reuse"] == True:
-            print("秒传成功")
-            return
-        else:
-            print("秒传失败")
-            sliceProgress = {}
-            sliceSize = create["data"]["sliceSize"]
-            preuploadID = create["data"]["preuploadID"]
-
-            print(f"分片大小{sliceSize // 1048576}MB")
-            print(f"分片数{ math.ceil(size / sliceSize) }")
-            for i in range(math.ceil(size / sliceSize)):
-                sliceProgress[i + 1] = False
-
-            preloaded = self.uploadListUploadParts(preuploadID)
-            print("preloaded")
-            print(preloaded)
-            for part in preloaded["data"]["parts"]:
-                sliceProgress[part["partNumber"]] = True
-                print(f'分片{part["partNumber"]}已上传,大小{part["size"] // 1048576}MB,MD5:{part["etag"]}')
-            for keyIndex in sliceProgress.keys():
-                if sliceProgress[keyIndex] == True:
-                    print(f"分片{keyIndex}已跳过")
-                    continue
-                url = self.uploadGetUploadURL(preuploadID=preuploadID, sliceNo=keyIndex)
-                presignedURL = url["data"]["presignedURL"]
-                fileLike.seek(sliceSize * (keyIndex - 1))
-                bytes = fileLike.read(sliceSize)
-                print(f"分片{keyIndex}，读取了{len(bytes)}字节，上传中")
-                print(presignedURL)
-                requests.put(url=presignedURL, data=bytes)
-                print("上传完成")
-            res = self.listUploadParts(preuploadID)
-            print(res)
-            res = self.uploadAsyncResult(preuploadID)
-            print(res)
-            res = self.uploadComplete(preuploadID)
-            print(res)
-            print("全部完成")        
-            # self.uploadCreate(0, "random.img", "32d4846a4f88a350efe79481ffce29cd", 1073741824)
-
-    # def put(self):
-    #     requests.put()
-
-    def lsjson(self, parentId, rootPath="", maxDeepth=-1, deepth=0):
-        # 不整多线程了，减轻点服务器压力
-        print(rootPath)
-        if maxDeepth != -1 and deepth == maxDeepth:
-            return []
-        currentFiles = self.listAllFiles(parentFileId=parentId)
-        for i in range(len(currentFiles)):
-            currentFiles[i]["filePath"] = f'{rootPath}/{currentFiles[i]["filename"]}'
-        dirList = [x for x in currentFiles if x["type"] == 1]
-        for x in dirList:
-            currentFiles.extend(
-                self.lsjson(
-                    x["fileId"],
-                    rootPath=x["filePath"],
-                    maxDeepth=maxDeepth,
-                    deepth=deepth + 1,
-                )
-            )
-        return currentFiles
 
     def get302url(self, path):
         if path in self.urlCache:
@@ -332,3 +217,127 @@ class pan123Api:
         )
         self.urlCache[path] = req.url
         return req.url
+
+
+
+
+    # def mkdir(self, name, parentID):
+    #     return self.post(url="/upload/v1/file/mkdir", data={"name": name, "parentID": parentID}).json()
+
+
+    # def uploadCreate(self, parentFileID, filename, etag, size):
+    #     return self.post(
+    #         url="/upload/v1/file/create",
+    #         data={
+    #             "parentFileID": parentFileID,
+    #             "filename": filename,
+    #             "etag": etag,
+    #             "size": size,
+    #         },
+    #     ).json()
+
+    # def uploadComplete(self, preuploadID):
+    #     return self.post(
+    #         url="/upload/v1/file/upload_complete",
+    #         data={
+    #             "preuploadID": preuploadID,
+    #         },
+    #     ).json()
+
+
+    # def uploadGetUploadURL(self, preuploadID, sliceNo):
+    #     return self.post(
+    #         url="/upload/v1/file/get_upload_url",
+    #         data={"preuploadID": preuploadID, "sliceNo": sliceNo},
+    #     ).json()
+
+
+    # def listUploadParts(self, preuploadID):
+    #     return self.post(
+    #         url="/upload/v1/file/list_upload_parts",
+    #         data={"preuploadID": preuploadID},
+    #     ).json()
+
+
+    # def uploadListUploadParts(self, preuploadID):
+    #     return self.post(url="/upload/v1/file/list_upload_parts", data={"preuploadID": preuploadID}).json()
+
+    # def uploadAsyncResult(self, preuploadID):
+    #     return self.post(url="/upload/v1/file/upload_async_result", data={"preuploadID": preuploadID}).json()
+
+
+
+
+
+    # def uploadFile(self, fileLike: BufferedReader, filename, parentId, md5, size):
+    #     """
+    #     fileLike  rb 可read seek 的对象
+    #     remotePath 远程绝对路径 /开头
+    #     路径必定已存在
+    #     md5  文件总长度
+    #     """
+    #     create = self.uploadCreate(parentId, filename, md5, size)
+    #     assert create["code"] == 0, create["message"]
+    #     if create["data"]["reuse"] == True:
+    #         print("秒传成功")
+    #         return
+    #     else:
+    #         print("秒传失败")
+    #         sliceProgress = {}
+    #         sliceSize = create["data"]["sliceSize"]
+    #         preuploadID = create["data"]["preuploadID"]
+
+    #         print(f"分片大小{sliceSize // 1048576}MB")
+    #         print(f"分片数{ math.ceil(size / sliceSize) }")
+    #         for i in range(math.ceil(size / sliceSize)):
+    #             sliceProgress[i + 1] = False
+
+    #         preloaded = self.uploadListUploadParts(preuploadID)
+    #         print("preloaded")
+    #         print(preloaded)
+    #         for part in preloaded["data"]["parts"]:
+    #             sliceProgress[part["partNumber"]] = True
+    #             print(f'分片{part["partNumber"]}已上传,大小{part["size"] // 1048576}MB,MD5:{part["etag"]}')
+    #         for keyIndex in sliceProgress.keys():
+    #             if sliceProgress[keyIndex] == True:
+    #                 print(f"分片{keyIndex}已跳过")
+    #                 continue
+    #             url = self.uploadGetUploadURL(preuploadID=preuploadID, sliceNo=keyIndex)
+    #             presignedURL = url["data"]["presignedURL"]
+    #             fileLike.seek(sliceSize * (keyIndex - 1))
+    #             bytes = fileLike.read(sliceSize)
+    #             print(f"分片{keyIndex}，读取了{len(bytes)}字节，上传中")
+    #             print(presignedURL)
+    #             requests.put(url=presignedURL, data=bytes)
+    #             print("上传完成")
+    #         res = self.listUploadParts(preuploadID)
+    #         print(res)
+    #         res = self.uploadAsyncResult(preuploadID)
+    #         print(res)
+    #         res = self.uploadComplete(preuploadID)
+    #         print(res)
+    #         print("全部完成")        
+    #         # self.uploadCreate(0, "random.img", "32d4846a4f88a350efe79481ffce29cd", 1073741824)
+
+    # # def put(self):
+    # #     requests.put()
+
+    # def lsjson(self, parentId, rootPath="", maxDeepth=-1, deepth=0):
+    #     # 不整多线程了，减轻点服务器压力
+    #     print(rootPath)
+    #     if maxDeepth != -1 and deepth == maxDeepth:
+    #         return []
+    #     currentFiles = self.listAllFiles(parentFileId=parentId)
+    #     for i in range(len(currentFiles)):
+    #         currentFiles[i]["filePath"] = f'{rootPath}/{currentFiles[i]["filename"]}'
+    #     dirList = [x for x in currentFiles if x["type"] == 1]
+    #     for x in dirList:
+    #         currentFiles.extend(
+    #             self.lsjson(
+    #                 x["fileId"],
+    #                 rootPath=x["filePath"],
+    #                 maxDeepth=maxDeepth,
+    #                 deepth=deepth + 1,
+    #             )
+    #         )
+    #     return currentFiles
