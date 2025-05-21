@@ -85,8 +85,9 @@ async def upload_bytes(path: str,request: Request):
         pid = api.getPathId("/" + parent)# 应该先判断下存在不，然后创建文件夹
         api.uploadFile(BytesIO(dataBytes),filename,pid,md5_bytes(dataBytes),len(dataBytes))
  
+ 
+ 
+ 
+ 
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
-
-# file = open(r"MOV_2112.mp4",'rb').read()
-# api.uploadFile(open(r"MOV_2112.mp4",'rb'),"MOV_2112.mp4",0,md5_bytes(file),len(file))
