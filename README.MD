@@ -34,5 +34,20 @@ docker run -d --name=123panlist --restart=unless-stopped \
   -p 8000:8000 
   riderlty/123panlist
 ```
-
 使用Rclone等工具添加http后端即可
+
+
+
+
+# 直接运行
+```
+pip install -r requirements.txt
+```
+在根目录创建以下三个文件并填入对应信息
+
+WEBDAV_HOST
+
+WEBDAV_SECRITE
+
+WEBDAV_ACCOUNT
+

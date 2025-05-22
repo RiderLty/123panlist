@@ -345,7 +345,7 @@ class pan123Api:
             print("全部完成")
             # self.uploadCreate(0, "random.img", "32d4846a4f88a350efe79481ffce29cd", 1073741824)
     
-    def delete_trash(self, fileIDs):
+    def delete_trash(self, fileIDs):#虽然官方说是删除100个，但是实际只能删除1个
         assert isinstance(fileIDs, list), "fileIDs must be a list"
         assert len(fileIDs) > 0 and len(fileIDs) < 1000, "fileIDs must be a list of length 1-1000"
         return self.post(
