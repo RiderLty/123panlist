@@ -28,9 +28,6 @@
 docker run -d --name=123panlist --restart=unless-stopped \
   -e CLIENT_ID=<你的clientID> \
   -e CLIENT_SECRET=<你的clientSecret> \
-  -e WEBDAV_ACCOUNT='<webdav用户名>' \
-  -e WEBDAV_SECRITE='<webdav密码>' \
-  -e WEBDAV_HOST='<webdav服务器地址>'
   -p 8000:8000 
   riderlty/123panlist
 ```
@@ -43,11 +40,6 @@ docker run -d --name=123panlist --restart=unless-stopped \
 ```
 pip install -r requirements.txt
 ```
-在根目录创建以下三个文件并填入对应信息
-
-WEBDAV_HOST
-
-WEBDAV_SECRITE
-
-WEBDAV_ACCOUNT
-
+在根目录创建以下两个文件并填入对应信息
+CLIENT_ID
+CLIENT_SECRET

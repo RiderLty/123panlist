@@ -86,10 +86,6 @@ class pan123Api:
             "Authorization": self.token,
             "Platform": "open_platform",
         }
-        self.webdav_auth = generate_authorization_header(get_key("WEBDAV_ACCOUNT"), get_key("WEBDAV_SECRITE"))
-        self.webdav_host = get_key("WEBDAV_HOST")
-        if not self.webdav_host.endswith("/"):
-            self.webdav_host = self.webdav_host + "/"
 
     def refreshToken(self) -> str:
         try:
@@ -211,23 +207,6 @@ class pan123Api:
                     flag = True
             assert flag == True, f"未找到文件夹:{part}"
         return parentId
-
-    def get302url_dav(self, path):
-        if path in self.urlCache:
-            self.urlCache[path] = self.urlCache[path]
-            return self.urlCache[path]
-        start = time.perf_counter_ns()
-        req = requests.get(
-            f"{self.webdav_host}{path}",
-            headers={
-                "Authorization": self.webdav_auth,
-                "range": "bytes=0-0",
-            },
-        )
-        end = time.perf_counter_ns()
-        print(f"webdav 获取下载信息耗时: {(end - start) / 1000000}ms")
-        self.urlCache[path] = req.url
-        return req.url
     
     def get302url(self, path):
         if path in self.urlCache:
