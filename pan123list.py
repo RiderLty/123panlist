@@ -43,6 +43,7 @@ async def read_path(path: str):
             )
         else:
             url = api.get302url(path)
+            # url = api.get302url_dav(path)
             return RedirectResponse(url=url, status_code=302)
 
 

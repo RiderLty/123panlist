@@ -179,6 +179,15 @@ class pan123Api:
         self.treeCache[parentFileId] = [x["fileId"] for x in files]
         return files
 
+    def getDownloadUrl(self, fileID):
+        """
+        获取下载信息
+        fileID: 文件ID
+        """
+        result = self.get(url="/api/v1/file/download_info", data={"fileID": fileID}).json()
+        assert result["code"] == 0, result["message"]
+        return result["data"]["downloadUrl"]
+    
     def getPathId(self, path):
         """
         获取文件夹的ID
@@ -203,10 +212,11 @@ class pan123Api:
             assert flag == True, f"未找到文件夹:{part}"
         return parentId
 
-    def get302url(self, path):
+    def get302url_dav(self, path):
         if path in self.urlCache:
             self.urlCache[path] = self.urlCache[path]
             return self.urlCache[path]
+        start = time.perf_counter_ns()
         req = requests.get(
             f"{self.webdav_host}{path}",
             headers={
@@ -214,8 +224,28 @@ class pan123Api:
                 "range": "bytes=0-0",
             },
         )
+        end = time.perf_counter_ns()
+        print(f"webdav 获取下载信息耗时: {(end - start) / 1000000}ms")
         self.urlCache[path] = req.url
         return req.url
+    
+    def get302url(self, path):
+        if path in self.urlCache:
+            self.urlCache[path] = self.urlCache[path]
+            return self.urlCache[path]
+        parentId = self.getPathId("/"+os.path.split(path)[0])
+        files = self.listAllFiles(parentFileId=parentId)
+        filename = os.path.split(path)[-1]
+        assert filename != "", "文件名不能为空"
+        for file in files:
+            if file["filename"] == filename:
+                start = time.perf_counter_ns()
+                url = self.getDownloadUrl(fileID=file["fileId"])
+                end = time.perf_counter_ns()
+                print(f"api 获取下载信息耗时: {(end - start) / 1000000}ms")  
+                self.urlCache[path] = url
+                return url          
+        raise FileNotFoundError(f"未找到文件或文件夹: {path}")
 
     def direct_link(self, fileID):
         return self.get(
